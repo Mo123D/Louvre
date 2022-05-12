@@ -15,7 +15,7 @@ Backup von alle SQL Queries der Datenbanken Projekt des SoSe2022.
   </tr>
    <tr>
     <td> Tabelle Entwurf </td>
-    <td> </td>
+    <td> Lana </td>
     <td> </td>
   </tr>
    <tr>

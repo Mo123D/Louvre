@@ -11,7 +11,7 @@ Backup von alle SQL Queries der Datenbanken Projekt des SoSe2022.
   <tr>
     <td> ERM schaffen </td>
     <td> Marie </td>
-    <td> </td>
+    <td> 14.05.22 </td>
   </tr>
    <tr>
     <td> Tabelle Entwurf </td>
@@ -21,7 +21,7 @@ Backup von alle SQL Queries der Datenbanken Projekt des SoSe2022.
    <tr>
     <td> Abfragen überlegen </td>
     <td> Marie </td>
-    <td> </td>
+    <td> 19.05.22 </td>
   </tr>
    <tr>
     <td> Server erstellen </td>
@@ -66,5 +66,17 @@ Backup von alle SQL Queries der Datenbanken Projekt des SoSe2022.
 </table>
 
 ## Wichtige Links
-Louvre JSON Documentation
-https://collections.louvre.fr/en/page/documentationJSON
+[Louvre JSON Documentation](https://collections.louvre.fr/en/page/documentationJSON) \
+Attribute für unsere eigene Datenbank zu extrahieren: \
+*coming soon*
+
+
+ISNI JSON-LD Documentation [(Beispiel Da Vinci)](https://isni.oclc.org/xslt/DB=1.2//CMD?ACT=SRCH&IKT=8006&TRM=ISN%3A0000%200001%202124%20423X&COOKIE=U51,KENDUSER,I28,B0028++++++,SY,NISNI,D1.2,E8b2bf6ce-28,A,H1,,3-28,,30-41,,43-59,,65-70,,74-75,R141.45.38.160,FY) \
+Attribute für unsere eigene Datenbank zu extrahieren:
+- Name
+- ISNI
+- Creation Role
+
+
+## Stand des aktuellen ER-Diagramms
+![ER-Diagramm](https://github.com/marielaporte/Datenbanken_Projekt/blob/main/ER-Diagramm.png)

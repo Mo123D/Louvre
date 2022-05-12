@@ -37,7 +37,7 @@ Backup von alle SQL Queries der Datenbanken Projekt des SoSe2022.
   </tr>
    <tr>
     <td> Recherchieren JSON importieren </td>
-    <td> </td>
+    <td> Notizen / Links für Reference</td>
     <td> Mo </td>
     <td> </td>
   </tr>

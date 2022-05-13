@@ -31,7 +31,7 @@ Backup von alle SQL Queries der Datenbanken Projekt des SoSe2022.
    <tr> <th colspan="4"> Datenbank </th> </tr>
    <tr>
     <td> Server erstellen </td>
-     <td> Link in README geschrieben </td>
+     <td> Name in README geschrieben </td>
     <td> Rachael </td>
     <td> 19.05.22 </td>
   </tr>
@@ -83,6 +83,8 @@ Backup von alle SQL Queries der Datenbanken Projekt des SoSe2022.
 </table>
 
 ## Wichtige Links
+Datenbank name: ikg_b22_gruppe6_louvre
+
 [Louvre JSON Documentation](https://collections.louvre.fr/en/page/documentationJSON) \
 Attribute für unsere eigene Datenbank zu extrahieren: \
 *coming soon*

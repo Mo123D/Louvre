@@ -96,6 +96,8 @@ Attribute für unsere eigene Datenbank zu extrahieren:
 - ISNI
 - Creation Role
 
+[Wikidata Toolkit](https://www.mediawiki.org/wiki/Wikidata_Toolkit)
+
 
 ## Stand des aktuellen ER-Diagramms
 ![ER-Diagramm](https://github.com/marielaporte/Datenbanken_Projekt/blob/main/ER-Diagramm.png)

@@ -28,6 +28,12 @@ Backup von alle SQL Queries der Datenbanken Projekt des SoSe2022.
     <td> Marie </td>
     <td> 19.05.22 </td>
   </tr>
+   <tr>
+    <td> aussuchen ~200 kunstwerke </td>
+    <td> Excel mit kunstwerke info (arkID ist schlussel) </td>
+    <td> Lana </td>
+    <td>  </td>
+  </tr>
    <tr> <th colspan="4"> Datenbank </th> </tr>
    <tr>
     <td> Server erstellen </td>
@@ -63,7 +69,7 @@ Backup von alle SQL Queries der Datenbanken Projekt des SoSe2022.
    <tr>
     <td> 5 min Präsentation vobereitenI</td>
     <td> PPT der Hauptidee und Konzept/ Entwurf </td>
-    <td> </td>
+    <td> Rachael </td>
     <td> 02.06.22</td>
   </tr>
    <tr>

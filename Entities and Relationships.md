@@ -34,7 +34,7 @@ Description: indexation data corresponding to terms of controlled vocabulary.
 **~~collection~~ → name**
 Data type: string of characters.\
 Description: collection to which the object belongs.\
-Example: Département des Peintures\
+Example: Department of Paintings of the Louvre\
 8 possibilities: Egyptian antiquities, Near Eastern antiquities, Greek Etruscan and Roman, Islamic art, Sculptures, Decorative arts, Painting, Prints and drawings)
 
 **wikidata**

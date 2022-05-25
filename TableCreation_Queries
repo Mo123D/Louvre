@@ -1,0 +1,75 @@
+drop table if exists artwork, collection, creator, creatorDates
+
+create table artwork (
+    arkId varchar[15] primary key not null,
+    title text,
+    materialsAndTechniques text,
+    objectType text
+)
+
+create table wasCreated (
+    artworkId references artwork (arkId),
+    placeOfCreation text,
+    yearFinished reference dateCreated (endYear)
+)
+
+create table dateCreated (
+    artworkId references artwork (arkId),
+    startYear integer,
+    endYear integer primary key not null,
+    text text,
+    doubt boolean
+)
+
+create table collection (
+    id varchar[10] primary key not null,
+    name text
+)
+
+create table isPartOf (
+    artworkId references artwork (arkId),
+    collectionId references collection (id)
+)
+
+create table creator (
+    id varchar[8] primary key not null,
+    name text,
+    countryOfCitizenship text
+)
+
+create table creatorDates (
+    creatorId references creator (id),
+    birth date,
+    death date
+)
+
+create table workAs (
+    creatorId references creator (id),
+    activeStartYear integer,
+    activeEndYear integer,
+    creationRole text
+)
+
+create table museum (
+    id varchar[10] primary key not null,
+    name text,
+    city text,
+    country text
+)
+
+create table room (
+    id varchar[3] not null,
+    wing text not null,
+    level varchar[1],
+    primary key (id, wing)
+)
+
+create table isFoundIn (
+    artworkId references artwork (arkId),
+    roomId references room
+)
+
+create table isLocatedIn (
+    roomId references room
+    museumId references museum (id)
+)

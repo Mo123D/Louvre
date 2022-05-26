@@ -32,7 +32,7 @@ Backup von alle SQL Queries der Datenbanken Projekt des SoSe2022.
     <td> aussuchen ~200 kunstwerke </td>
     <td> Excel mit kunstwerke info (arkID ist schlussel) </td>
     <td> Lana </td>
-    <td>  </td>
+    <td> 25.05.22 </td>
   </tr>
    <tr> <th colspan="4"> Datenbank </th> </tr>
    <tr>

@@ -41,7 +41,10 @@ create table creatorDates (
     creatorId references creator (id),
     birth date,
     death date
+    primary key (birth, death)
 )
+
+*/require new table hasDate as relationship between entites creator and creatorDates/*
 
 create table workAs (
     creatorId references creator (id),

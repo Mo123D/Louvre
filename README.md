@@ -11,10 +11,10 @@ Backup von alle SQL Queries der Datenbanken Projekt des SoSe2022.
   </tr>
    <tr> <th colspan="4"> Entwurf und Plannung </th> </tr>
   <tr>
-    <td> ERM schaffen </td>
-    <td> ERM Diagramm </td>
+    <td>  Relationale Algebra & SQL Abfragen </td>
+    <td> Anwendugsfälle mit Joins-Operators </td>
     <td> Marie </td>
-    <td> 14.05.22 </td>
+    <td> 01.06.22 </td>
   </tr>
    <tr>
     <td> Tabelle Entwurf </td>

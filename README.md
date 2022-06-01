@@ -20,7 +20,7 @@ Backup von alle SQL Queries der Datenbanken Projekt des SoSe2022.
     <td> Tabelle Entwurf </td>
     <td> Excel der Tabellensicht des ERM Diagramms </td> 
     <td> Lana </td>
-    <td> </td>
+    <td> 04.06.22 </td>
   </tr>
    <tr>
     <td> Abfragen überlegen </td>
@@ -69,7 +69,7 @@ Backup von alle SQL Queries der Datenbanken Projekt des SoSe2022.
    <tr>
     <td> 5 min Präsentation vobereitenI</td>
     <td> PPT der Hauptidee und Konzept/ Entwurf </td>
-    <td> Rachael </td>
+    <td> Rachael, Lana </td>
     <td> 02.06.22</td>
   </tr>
    <tr>

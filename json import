@@ -12,3 +12,10 @@ dies soll alle inhalte rausspucken ;)
 wenn wir z.b nur den url von dem json haben wollen nutzen wir diesen filter:
 
 select :'content'::jsonb -> 'url'; 
+
+
+und danach alles in eine echte tabele importieren : 
+
+
+
+

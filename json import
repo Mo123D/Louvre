@@ -14,7 +14,9 @@ wenn wir z.b nur den url von dem json haben wollen nutzen wir diesen filter:
 select :'content'::jsonb -> 'url'; 
 
 
-und danach alles in eine echte tabele importieren : 
+und danach alles in eine echte tabele importieren :   
+![Screenshot 2022-06-01 185031](https://user-images.githubusercontent.com/104974962/171471331-9773f526-ce15-467f-9e12-c36253077d8c.jpg)
+
 
 
 

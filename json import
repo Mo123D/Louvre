@@ -4,7 +4,7 @@ Wir werden den kompleten json file importieren mit den 3 simplen comandos
 1:CREATE TEMP TABLE new_json(info json);
 2:\set content `cat /home/linux/Desktop/lourve.json`------ for linuk
 oder 2:\set content `type C:\Users\moham\Desktop\lourve.json` -------- for windows
-3: INSERT INTO new_contacts VALUES(:'content');
+3: INSERT INTO new_json VALUES(:'content');
 Fertig :).
 zu uberprüfen schreiben wir SELECT * FROM new_json
 dies soll alle inhalte rausspucken ;)

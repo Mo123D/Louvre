@@ -1,4 +1,4 @@
-Um eine json document zu importieren werden wir diese methode nutzen:
+Um ein json dokument zu importieren werden wir diese methode nutzen:
  https://kb.objectrocket.com/postgresql/how-to-import-a-json-file-into-postgresql-database-cluster-1437# 
 Wir werden den kompleten json file importieren mit den 3 simplen comandos 
 1:CREATE TEMP TABLE new_json(info json);

@@ -18,7 +18,7 @@ Backup von alle SQL Queries der Datenbanken Projekt des SoSe2022.
   </tr>
    <tr>
     <td> Tabelle Entwurf </td>
-    <td> Datei (typ?) der Tabellensicht des ERM Diagramms </td> 
+    <td> Excel der Tabellensicht des ERM Diagramms </td> 
     <td> Lana </td>
     <td> </td>
   </tr>
@@ -60,7 +60,7 @@ Backup von alle SQL Queries der Datenbanken Projekt des SoSe2022.
     <td> </td>
   </tr>
    <tr>
-    <td> Kunstwerke in DB hinzufügen (~100) </td>
+    <td> Kunstwerke in DB hinzufügen (~200) </td>
        <td> </td>
     <td> </td>
     <td> </td>

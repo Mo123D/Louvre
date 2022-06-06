@@ -128,8 +128,8 @@ public class Downloader {
 }
 ```
 
-[JSONFileURL.csv](Herunterladen%20der%20ausgewa%CC%88hlten%20JSON-Dateien%205e94ff88bc96495ea310744000d3694b/JSONFileURL.csv)
+[JSONFileURL.csv](data/JSONFileURL.csv)
 
-[JSONDocumentation.zip](Herunterladen%20der%20ausgewa%CC%88hlten%20JSON-Dateien%205e94ff88bc96495ea310744000d3694b/JSONDocumentation.zip)
+[JSONDocumentation.zip](data/JSONDocumentation.zip)
 
-[JSONFileDownloader.zip](Herunterladen%20der%20ausgewa%CC%88hlten%20JSON-Dateien%205e94ff88bc96495ea310744000d3694b/JSONFileDownloader.zip)
+[JSONFileDownloader.zip](data/JSONFileDownloader.zip)

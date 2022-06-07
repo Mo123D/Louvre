@@ -100,13 +100,13 @@ import java.nio.channels.FileChannel;
 import java.nio.channels.ReadableByteChannel;
 
 public class Downloader {
-    
+
     public static void openStream(URL url, FileOutputStream fileOS) throws IOException {
         ReadableByteChannel readChannel = Channels.newChannel(url.openStream());
         FileChannel writeChannel = fileOS.getChannel();
         writeChannel.transferFrom(readChannel, 0, Long.MAX_VALUE);
     }
-    
+
     public static void main(String[] args) throws IOException {
         ArtworkList artworkList = new ArtworkList();
         artworkList.addFromCSVFile("C:\\Users\\Marie\\IdeaProjects\\JSONFileDownloader\\data\\JSONFileURL.csv");
@@ -119,17 +119,19 @@ public class Downloader {
                     "B22 Datenbanken\\PostgreSQL Datenbanken\\JSONDocumentation\\"+ artworkList.getArtworkArkId(i) + ".json";
             System.out.println(fileOutput[i]);
 
-            FileOutputStream fileOS = new FileOutputStream("C:\\Users\\Marie\\Documents\\Studium\\SoSe2022\\" +
-                    "B22 Datenbanken\\PostgreSQL Datenbanken\\JSONDocumentation\\"+ artworkList.getArtworkArkId(i) + ".json");
-            URL url = new URL(artworkList.getArtworkURL(i));
+            FileOutputStream fileOS = new FileOutputStream("C:\\Users\\Marie\\Desktop\\JSONFiles\\"+ artworkList.getArtworkArkId(i) + ".json");
+            URL url = new URL(artworkList.getArtworkURL(i)+".json");
             openStream(url, fileOS);
         }
     }
 }
+
 ```
 
-[JSONFileURL.csv](data/JSONFileURL.csv)
+File Input: [JSONFileURL.csv](data/JSONFileURL.csv)
 
-[JSONDocumentation.zip](data/JSONDocumentation.zip)
+File Output: [JSONFiles.zip](data/JSONFiles.zip)
 
-[JSONFileDownloader.zip](data/JSONFileDownloader.zip)
+Java-Project: [JSONFileDownloader.zip](data/JSONFileDownloader.zip)
+
+To-do: write about Channels Library and CSVReader Library (not used, prefered creating an object and an object list).

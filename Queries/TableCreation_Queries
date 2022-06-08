@@ -1,7 +1,7 @@
 drop table if exists artwork, collection, creator, creatorDates
 
 create table artwork (
-    arkId varchar[15] primary key not null,
+    arkId varchar[15] primary key,
     title text,
     materialsAndTechniques text,
     objectType text
@@ -16,13 +16,13 @@ create table wasCreated (
 create table dateCreated (
     artworkId references artwork (arkId),
     startYear integer,
-    endYear integer primary key not null,
+    endYear integer primary key,
     text text,
     doubt boolean
 )
 
 create table collection (
-    id varchar[10] primary key not null,
+    id varchar[10] primary key,
     name text
 )
 
@@ -32,7 +32,7 @@ create table isPartOf (
 )
 
 create table creator (
-    id varchar[8] primary key not null,
+    id varchar[8] primary key,
     name text,
     countryOfCitizenship text
 )
@@ -54,15 +54,15 @@ create table workAs (
 )
 
 create table museum (
-    id varchar[10] primary key not null,
+    id varchar[10] primary key,
     name text,
     city text,
     country text
 )
 
 create table room (
-    id varchar[3] not null,
-    wing text not null,
+    id varchar[3],
+    wing text not,
     level varchar[1],
     primary key (id, wing)
 )

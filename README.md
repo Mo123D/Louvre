@@ -34,6 +34,13 @@ Backup von alle SQL Queries der Datenbanken Projekt des SoSe2022.
     <td> Lana </td>
     <td> 25.05.22 </td>
   </tr>
+   </tr>
+   <tr>
+    <td> anwendungsbeispiele </td>
+    <td> text datei </td>
+    <td> Lana </td>
+    <td>  </td>
+  </tr>
    <tr> <th colspan="4"> Datenbank </th> </tr>
    <tr>
     <td> Server erstellen </td>
@@ -84,6 +91,12 @@ Backup von alle SQL Queries der Datenbanken Projekt des SoSe2022.
        <td> </td>
     <td> Alle </td>
     <td> 07.07.22, 10:30</td>
+  </tr>
+   <tr>
+    <td> Final Paper </td>
+    <td> Text Datei </td>
+    <td>  </td>
+    <td> 15.08.22 </td>
   </tr>
      
 </table>

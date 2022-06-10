@@ -1,4 +1,4 @@
-drop table if exists artwork, wasCreated, creator, workAs, museum, room
+drop table if exists artwork, wasCreated, creator, workAs, museum, room;
 
 create table artwork (
     arkId varchar[15] primary key,
@@ -7,7 +7,7 @@ create table artwork (
     objectType text,
     collection text,
     roomId references room
-)
+);
 
 create table wasCreated (
     artworkId references artwork,
@@ -17,7 +17,7 @@ create table wasCreated (
     endYear integer primary key,
     epoch text,
     doubt boolean
-)
+);
 
 create table creator (
     id varchar[8] primary key,
@@ -25,19 +25,19 @@ create table creator (
     countryOfCitizenship text,
     birth date,
     death date
-)
+);
 
 create table workAs (
     creatorId references creator,
     creationRole text
-)
+);
 
 create table museum (
     id varchar[10] primary key,
     name text,
     city text,
     country text
-)
+);
 
 create table room (
     id varchar[3],
@@ -45,4 +45,4 @@ create table room (
     level varchar[1],
     primary key (id, wing),
     museumId references museum
-)
+);

@@ -1,33 +1,35 @@
-drop table if exists artwork, wasCreated, creator, workAs, museum, room;
+/* Because of references, oder of creation must be: Museum, Room, Artwork, Creator, WorkAs, WasCreated */
+
+drop table if exists museum, room, artwork, creator, workas, wascreated;
 
 create table museum (
-    id varchar[10] primary key,
+    id varchar(10) primary key,
     name text,
     city text,
     country text
 );
 
 create table room (
-    id varchar[3],
+    id varchar(3),
     wing text,
-    level varchar[1],
+    level varchar(1),
     primary key (id, wing),
-    museumId varchar[10] references museum on delete cascade
+    museumId varchar(10) references museum on delete cascade
 );
 
 create table artwork (
-    arkId varchar[15] primary key,
+    arkId varchar(15) primary key,
     title text,
     materialsAndTechniques text,
     objectType text,
     collection text,
-    roomId varchar[3],
+    roomId varchar(3),
     roomWing text,
     foreign key(roomId, roomWing) references room on delete set NULL
 );
 
 create table creator (
-    id varchar[8] primary key,
+    id varchar (8) primary key,
     name text,
     countryOfCitizenship text,
     birth date,
@@ -35,13 +37,13 @@ create table creator (
 );
 
 create table workAs (
-    creatorId varchar[8] references creator on delete cascade primary key,
+    creatorId varchar(8) references creator on delete cascade primary key,
     creationRole text
 );
 
 create table wasCreated (
-    artworkId varchar[15] references artwork on delete cascade primary key,
-    creatorId varchar[8] references creator on delete set NULL,
+    artworkId varchar(15) references artwork on delete cascade primary key,
+    creatorId varchar(8) references creator on delete set NULL,
     placeOfCreation text,
     startYear integer,
     endYear integer,

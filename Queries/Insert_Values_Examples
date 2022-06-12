@@ -1,0 +1,22 @@
+/* Declaring the table attributes (z.B. (arkid, ...)) is not necessary, but helps for comprehension */
+/* Because of references, oder of creation must be: Museum, Room, Artwork, Creator, WorkAs, WasCreated */
+    
+insert into museum (id, name, city, country)
+    values ('1A', 'Louvre', 'Paris', 'France');
+    
+insert into room (id, wing, level, museumid)
+    values ('12a', 'German', '2', '1A');
+    
+insert into artwork (arkid, title, materialsandtechniques, objecttype, collection, roomid, roomwing) 
+    values  
+    ('abc123', 'Title 1', 'Paint', 'Painting', 'Top Ten', '12a', 'German'),
+    ('def456', 'Title 2', 'Oil', 'Paiting', 'Boring', '12a', 'German');
+
+insert into creator (id, name, countryofcitizenship, birth, death) 
+    values ('123abc', 'Max Mustermann', 'Germany', '1993-03-25', NULL);
+    
+insert into workas (creatorid, creationrole)
+    values ('123abc', 'Painter');
+    
+insert into wascreated (artworkid, creatorid, placeofcreation, startyear, endyear, epoch, doubt)
+    values ('abc123', '123abc', 'Germany', '1500', '1550', 'Back then', false);

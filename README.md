@@ -39,7 +39,7 @@ Backup von alle SQL Queries der Datenbanken Projekt des SoSe2022.
     <td> anwendungsbeispiele </td>
     <td> text datei </td>
     <td> Lana </td>
-    <td>  </td>
+    <td> 15.06.22 </td>
   </tr>
    <tr> <th colspan="4"> Datenbank </th> </tr>
    <tr>

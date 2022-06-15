@@ -57,19 +57,19 @@ Backup von alle SQL Queries der Datenbanken Projekt des SoSe2022.
    <tr>
     <td> Importieren JSON Attributen </td>
      <td> </td>
-    <td> </td>
+    <td> Marie  </td>
     <td> </td>
   </tr>
    <tr>
-    <td> Bearbeiten DB nach Entwurf </td>
+    <td> Bearbeiten DB Tabellen nach Entwurf </td>
        <td> </td>
-    <td> </td>
-    <td> </td>
+    <td> Rachael </td>
+    <td> 17.06.22 </td>
   </tr>
    <tr>
     <td> Kunstwerke in DB hinzufügen (~200) </td>
        <td> </td>
-    <td> </td>
+    <td> Marie </td>
     <td> </td>
   </tr> 
       <tr> <th colspan="4"> Präsentationen </th> </tr>

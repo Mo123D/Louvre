@@ -72,6 +72,12 @@ Backup von alle SQL Queries der Datenbanken Projekt des SoSe2022.
     <td> Marie </td>
     <td> </td>
   </tr> 
+     <tr>
+    <td> Figure out external access </td>
+       <td> </td>
+    <td> Mo </td>
+    <td> </td>
+  </tr>
       <tr> <th colspan="4"> Präsentationen </th> </tr>
    <tr>
     <td> 5 min Präsentation vobereitenI</td>

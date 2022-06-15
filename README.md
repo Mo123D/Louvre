@@ -121,6 +121,8 @@ Attribute für unsere eigene Datenbank zu extrahieren:
 
 [Final Schriftlicheabgabe](https://docs.google.com/document/d/1GxQv2ubj48QhS3BBEMHDFG2V8fcEr8Wt_NWicDrO0FA/edit?usp=sharing)
 
+[Brainstorming](https://docs.google.com/document/d/1WdiJ2tMnK8i3hRhO17qMAzc7Al1scLd_/edit?usp=sharing&ouid=103150710367128657454&rtpof=true&sd=true)
+
 ## Stand des aktuellen ER-Diagramms
 ![ER-Diagramm](https://github.com/marielaporte/Datenbanken_Projekt/blob/main/ER-Diagramm.png)
 

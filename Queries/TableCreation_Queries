@@ -1,6 +1,6 @@
 /* Because of references, oder of creation must be: Museum, Room, Artwork, Creator, WorkAs, WasCreated */
 
-drop table if exists museum, room, artwork, creator, workas, wascreated;
+drop table if exists museum, room, artwork, creator, wascreated;
 
 create table museum (
     id varchar(10) primary key,
@@ -33,13 +33,9 @@ create table creator (
     countryOfCitizenship text,
     birth date,
     death date,
+	creationRole text,
     movement text,
     genre text
-);
-
-create table workAs (
-    creatorId varchar(8) references creator on delete cascade primary key,
-    creationRole text
 );
 
 create table wasCreated (

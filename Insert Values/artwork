@@ -1,0 +1,620 @@
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010055782','La Force, figure allégorique','toile','Département des Peintures,NULL)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010059078','L'Enfant aux fleurs, dit aussi : L'Enfant blond aux fleurs, ou : L'Enfant aux boucles.','huile sur bois','Département des Peintures,930)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010059079','La messe de saint Grégoire','huile sur bois (chêne)','Département des Peintures,834)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010059194','Cheval espagnol dans une écurie','huile sur toile','Département des Peintures,941)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010059221','L'Impératrice Eugénie','huile sur toile','Département des Peintures,545)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010059241','Adam et Ève près de l’arbre du Bien et du Mal','huile sur bois','Département des Peintures,859)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010059309','Portrait d'un jeune homme vu en buste, tourné  de trois-quarts vers le spectateur','huile sur toile','Département des Peintures,802)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010059311','Minerve chassant les Vices du Jardin de la Vertu','tempera sur toile','Département des Peintures,710)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010059395','Fruits et objets d'art sur une table. L'aiguière de François Ier.','huile sur toile','Département des Peintures,536)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010059495','Flore et amours avec des fruits et des guirlandes de fleurs','huile sur toile','Département des Peintures,802)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010059561','Le Singe peintre.','huile sur toile','Département des Peintures,920)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010059597','Nymphe et satyre, dit parfois Jupiter et Antiope','huile sur toile','Département des Peintures,917)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010059765','La petite mendiante rousse','huile sur toile','Département des Peintures,941)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010059946','Le coucher de Desdémone. (Shakespeare, Othello, acte IV, scène 3).','huile sur bois','Département des Peintures,942)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010060092','L'enlèvement de Psyché','huile sur toile','Département des Peintures,702)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010060093','Monsieur Vallet','huile sur toile','Département des Peintures,936)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010060298','La Paix.','huile sur toile','Département des Peintures,225)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010060335','Portrait des princesses Elena (1787-1869) et Alexandra (1788-1819) Kourakine, avec leur chien, 1802','huile sur toile','Département des Peintures,860)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010060582','L'enlèvement de Déjanire par le centaure Nessus','huile sur toile','Département des Peintures,933)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010060783','Hercule sur le bûcher','huile sur toile','Département des Peintures,716)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010060821','Les Épousailles de la reine','huile sur toile','Département des Peintures,801)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010060838','Le Concert (ou Conseil) des dieux pour les mariages réciproques de la France et de l’Espagne','huile sur toile','Département des Peintures,801)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010060847','Hercule et Omphale: Hercule filant la laine auprès d’Omphale','huile sur toile (transposition)','Département des Peintures,802)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010060911','La Vierge allaitant l'Enfant, dit La Vierge au coussin vert','huile sur bois','Département des Peintures,710)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010061070','Portrait de Titus (1641-1668), fils de l’artiste','huile sur toile','Département des Peintures,844)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010061151','La Vierge adorant l'Enfant Jésus','huile sur toile','Département des Peintures,729)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010061299','Jeune homme en armure','huile sur toile','Département des Peintures,828)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010061432','Attaque à main armée dans un bois','huile sur toile','Département des Peintures,802)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010061667','La Charité romaine ou Cimon et Péro','huile sur toile','Département des Peintures,828)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010061685','Fleurs dans une carafe de cristal, avec une branche de pois et un escargot','huile sur bois','Département des Peintures,840)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010061711','Le Christ au Jardin des oliviers, avec les apôtres endormis','huile sur bois','Département des Peintures,815)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010061785','Andromède attachée au rocher par les Néréides','huile sur toile','Département des Peintures,942)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010061888','Triptyque de la famille Braque','huile sur bois','Département des Peintures,818)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010061899','Saint Jérôme en pénitence, dans le désert','huile sur bois','Département des Peintures,814)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010061990','La Nuit; un port de mer au clair de lune','huile sur toile','Département des Peintures,933)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010062150','Jésus chassant les marchands du Temple','huile sur toile','Département des Peintures,800)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010062318','Le martyre d'une sainte','huile sur bois','Département des Peintures,729)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010062407','Vénus, Satyre et l'Amour endormi','huile sur toile','Département des Peintures,712)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010062548','Jules Hardouin-Mansart (1645-1708)','huile sur toile','Département des Peintures,NULL)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010062666','Jardins de Paris','huile sur toile','Département des Peintures,903)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010062703','Le bois des Roches, Veneux-Nadon.','huile sur toile','Département des Peintures,903)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010062725','La lecture','huile sur toile','Département des Peintures,903)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010062961','Le naufrage de Don Juan','huile sur toile','Département des Peintures,700)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010063407','La Comtesse Catherine Vassilievna Skavronskaia (1761-1829)','huile sur toile','Département des Peintures,933)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010063515','L'Amour et Psyché','huile sur toile','Département des Peintures,702)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010063531','Bethsabée recevant la lettre de David','huile sur toile','Département des Peintures,843)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010063576','Tête de cheval blanc','huile sur toile','Département des Peintures,941)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010063579','Saint François d'Assise en extase','huile sur toile','Département des Peintures,718)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010063585','Deux chevaux de poste à la porte d'une écurie','huile sur papier collé sur toile','Département des Peintures,941)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010063624','Portrait de l'artiste.','huile sur toile','Département des Peintures,702)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010063637','Aline Chassériau (1822-1871), soeur de l'artiste, dit autrefois à tort: Adèle Chassériau.','huile sur toile','Département des Peintures,943)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010063640','Vénus anadyomène, dite aussi Vénus marine.','huile sur toile','Département des Peintures,940)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010063659','Le Sacrifice de Gédéon.','huile sur toile','Département des Peintures,919)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010063685','La Vierge et l'Enfant entourés de quatre anges','huile (?) sur bois (peuplier)','Département des Peintures,708)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010063857','Pirates africains enlevant une jeune femme','huile sur toile','Département des Peintures,942)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010063930','Alphée poursuivant Arethuse','huile sur toile','Département des Peintures,729)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010064112','Saint Antoine','huile sur bois','Département des Peintures,710)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010064154','Serpents et papillons dans un sous-bois','huile sur toile','Département des Peintures,902)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010064158','Sur la rive du lac de Nemi','huile sur papier collé sur carton','Département des Peintures,936)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010064282','Les Pantoufles','huile sur toile','Département des Peintures,902)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010064311','Madame Raymond de Verninac, née Henriette Delacroix (1780-1827), soeur d'Eugène Delacroix.','huile sur toile','Département des Peintures,714)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010064389','La Madone de la Justice','huile sur toile (transposition (deux fois))','Département des Peintures,717)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010064390','Le retour de l'enfant prodigue','huile sur toile','Département des Peintures,728)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010064512','La Crucifixion','huile sur bois','Département des Peintures,710)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010064532','L'étang (le Louroux en Touraine)','huile sur toile','Département des Peintures,NULL)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010064742','L'imposition de la chasuble à saint Ildefonse','huile sur bois (pin)','Département des Peintures,731)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010064780','Saint Paul ermite','huile sur toile','Département des Peintures,718)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010064821','L'Ange apparaît à Joachim','huile sur bois (peuplier)','Département des Peintures,709)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010064824','La Fuite en Égypte','huile sur bois (peuplier)','Département des Peintures,709)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010064918','La Dentellière','huile sur toile collée sur bois','Département des Peintures,837)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010064922','Bacchus et Ariane','huile sur toile','Département des Peintures,718)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010065014','L'Enlèvement de Proserpine','huile sur toile','Département des Peintures,712)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010065263','Le Salon Carré du Louvre','huile sur toile','Département des Peintures,900)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010065418','Le Temps montrant les ruines qu'il amène et les chefs d'oeuvre qu'il laisse ensuite découvrir','huile sur toile','Département des Peintures,661)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010065532','Portrait d'une femme noire','huile sur toile','Département des Peintures,935)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010065576','Portement de croix','gouache sur vélin collé sur toile','Département des Peintures,835)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010065751','Plafond : Les oiseaux.','huile sur toile','Département des Peintures,NULL)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010065799','Magdalena-Bay, vue prise de la presqu'île des Tombeaux, au nord du Spitzberg; effet d'aurore boréale.','huile sur toile','Département des Peintures,946)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010066106','La Vierge de l'Annonciation','huile sur toile','Département des Peintures,718)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010066185','Le Jeune Chanteur','huile sur toile','Département des Peintures,829)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010066283','Le chevalier, la femme et la Mort','bois (tilleul)','Département des Peintures,809)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010066348','L'Odalisque.','huile sur toile','Département des Peintures,921)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010066443','Le Christ descendu de la Croix','huile sur toile','Département des Peintures,913)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010066475','Jean Ier duc de Clèves (1419-1467)','huile sur bois','Département des Peintures,818)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010066496','Saint Georges traîné au supplice','huile sur bois (chêne)','Département des Peintures,730)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010066652','L'Amérique','huile sur toile','Département des Peintures,640)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010066733','Lady Macbeth marchant dans son sommeil, dit aussi Lady Macbeth somnambule','huile sur toile','Département des Peintures,713)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010066759','La France, sous les traits de Minerve, terrasse l'Ignorance et protège les Arts','huile sur toile (transposition)','Département des Peintures,724)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010066815','Saint Jean l'Évangéliste et la coupe empoisonnée','huile sur toile','Département des Peintures,732)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010066822','Sainte Clotilde, femme de Clovis','huile sur toile','Département des Peintures,940)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010067005','L'éruption du Vésuve ; vue en hauteur','huile sur toile','Département des Peintures,927)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010067008','Saint Jérôme méditant','huile sur bois','Département des Peintures,815)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010067095','Saint Jean l'Evangéliste','huile sur bois','Département des Peintures,730)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010067132','Renaud dans les jardins d'Armide, dit aussi :Renaud entre dans la forêt enchantée.','huile sur toile','Département des Peintures,929)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010067409','Vue de la Salute','huile sur toile','Département des Peintures,723)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010067423','Vertumne et Pomone','huile','Département des Peintures,823)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010089221','Cheval du groupe de l'Arc de Triomphe du Carrousel','bronze','Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes,NULL)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010089270','La Vierge et l'Enfant dans un encadrement','stuc polychromé','Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes,162)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010089279','La Vierge et l'Enfant avec trois chérubins, encadrement cintré orne de fruits et de feuillages','terre cuite émaillé','Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes,163)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010089390','Daphnis et Chloe','marbre','Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes,105)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010089408','Un chien','marbre','Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes,225)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010089409','L'Espérance','marbre','Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes,225)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010089410','Prométhée','marbre','Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes,105)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010089420','La reddition de Pampelune','marbre','Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes,NULL)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010089911','Épitaphe en latin de Jean, Bernard et Renaud de Dormans (morts en 1380, 1381 et 1386)','pierre calcaire','Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes,207)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010090777','Apothéose de l'empereur Napoléon Ier','plâtre','Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes,226)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010091195','Rembrandt','marbre','Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes,Lefuel)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010091222','La Poésie et la Musique','pierre','Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes,NULL)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010091253','Jeune pécheur dansant la tarentelle (souvenir de Naples)','bronze','Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes,226)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010091263','Mercure, après avoir tranché la tête à Argus, remet ses talonnières pour remonter dans l'Olympe.','bronze à patine brun-jaune','Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes,226)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010091398','Alexandre combattant','marbre','Sculptures des jardins,NULL)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010091413','Corine','marbre','Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes,225)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010092133','Homère','marbre','Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes,225)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010092471','Napoléon en triomphateur','plomb doré=dorure','Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes,105)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010092472','Renommée (La Paix)','plomb doré=dorure','Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes,NULL)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010092485','La Paix','argent, bronze doré=dorure','Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes,225)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010092540','Dais provenant du tombeau de Philippe le Hardi','marbre, albâtre','Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes,210)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010092547','L'Amitié','marbre','Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes,403)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010092622','Guerrier se poignardant','terre cuite','Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes,403)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010092670','Cigogne posée sur une tortue','bronze doré=dorure argenté=argenture','Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes,226)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010092774','Loup pris au piège','bronze à patine claire','Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes,226)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010092797','Tortue sur plinthe','bronze','Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes,226)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010092872','Girafe','cire brun rouge, bois','Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes,101)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010093045','Tête d'un vieillard de l'Apocalypse','pierre calcaire','Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes,202)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010093162','L'Enfant à la cage','marbre','Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes,220)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010093199','Frise de têtes de chérubins avec cornes d'abondance','terre cuite émaillé','Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes,163)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010093315','Prophète assis tenant un phylactère','pierre calcaire','Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes,203)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010093569','Saint Michel terrassant le dragon','pierre calcaire','Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes,209)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010093646','Pinacle surmonté d'une figure mutilée d'ecclésiastique tenant un livre','marbre','Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes,210)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010093743','Colonne torse et chapiteau historiés : personnages et êtres fantastiques; scènes de l'histoire de Daniel (?)','pierre calcaire','Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes,202)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010093840','Monument au conteur Perrault','marbre','Sculptures des jardins,NULL)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010094072','La Beauté et l'art','terre crue','Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes,134)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010094077','Sainte Marie Madeleine tenant un vase à parfum','pierre traces de polychromie doré=dorure badigeon','Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes,210)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010094104','Arcade provenant de la façade occidentale du château des Tuileries','pierre','Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes,102)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010094128','Portrait de femme','marbre','Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes,220)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010094183','Chapiteau décoré d'hommes armés combattant des lions','pierre calcaire','Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes,164)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010094251','Sainte Cécile','terre cuite','Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes,223)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010094301','La bienheureuse Ludovica Albertoni (1473-1553)','terre cuite','Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes,162)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010094332','Deux personnages, une femme et un homme tenant ses gants sous une arcature tréflée','pierre calcaire','Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes,207)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010094344','Un dragon et une chèvre, dans des rinceaux','pierre traces de polychromie','Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes,202)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010094384','Énée et Anchise','terre cuite','Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes,223)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010094387','Saint Paul','terre cuite','Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes,401)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010094451','La Paix','plâtre patiné','Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes,226)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010094487','Le Christ mort','acajou polychromie originale','Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes,164)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010094543','Le Forgeron','terre cuite','Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes,134)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010094558','Sophie Arnould (1740-1802) cantatrice','marbre, marbre blanc','Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes,222)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010094590','Mercure','cire jaune rouge','Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes,226)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010094592','Jeanne d'Arc écoutant ses voix','terre cuite','Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes,226)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010094621','Marceau en uniforme de hussard (François Severin Marceau Desgraviers dit Marceau) (1769-1796)','terre cuite','Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes,225)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010094627','Vertumne et Pomone','pierre','Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes,105)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010094660','Fragment de pilastre décoré sur une face ornée de vases de fleurs à deux anses et de feuillages','pierre noire','Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes,403)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010094662','Vénus à la pomme','marbre','Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes,400)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010094743','Fragment d'arcature','marbre','Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes,207)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010094796','Le Génie du Printemps','marbre','Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes,219)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010094811','Neptune','marbre','Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes,102)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010094893','Femme voilée (la Foi ?)','marbre','Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes,403)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010094969','Bacchanale d'enfants. La Panthère de Bacchus défendant ses petits','stuc','Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes,105)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010095044','La Prudence','pierre','Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes,NULL)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010095148','Fragment de bandeau décoré d'un masque entre deux feuilles','pierre calcaire','Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes,134)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010095174','Victoire de Brescia','bronze','Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes,Colbert)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010095182','Nathalie de Laborde (1774-1835) future comtesse de Noailles puis duchesse de Mouchy','terre cuite beige rosée, marbre bleu turquin=bardiglio=marbre gris turquin','Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes,221)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010095184','Le Choix difficile','marbre','Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes,541)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010095286','Buste d'ange','marbre','Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes,209)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010095295','La Religion','terre cuite rouge','Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes,225)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010095420','Saint Antoine','tilleul polychromie originale','Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes,169)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010095504','Saint Jean Baptiste','bronze fonte à la cire perdue=fondu à la cire perdue','Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes,104)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010095561','Centaure enlaçant une Bacchante','terre cuite','Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes,400)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010095580','Marie de Bourgogne','bronze fonte au sable = fondu au sable','Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes,226)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010095618','L'Été et l'Automne','terre cuite','Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes,401)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010095621','Nymphe Aréthuse','marbre','Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes,102)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010095678','Lutteur déposant son ceste','marbre','Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes,226)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010095685','Rhinocéros attaqué par un tigre','bronze à patine vert','Sculptures des jardins,NULL)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010095689','Les fils de Caïn','bronze','Sculptures des jardins,NULL)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010095690','Nuit','bronze','Sculptures des jardins,NULL)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010095697','La Nymphe','bronze','Sculptures des jardins,NULL)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010095716','Sphinge','marbre','Sculptures des jardins,NULL)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010096631','Rome assise','Matériau/Technique : argent doré, Bronze doré
+Matériau : jade
+Matériau : jaspe
+Matériau : lapis-lazuli
+Matériau : marbre
+Matériau : porphyre','Département des Objets d'art du Moyen Age, de la Renaissance et des temps modernes,553)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010098198','Statuette : Vierge allaitant l'Enfant','Matériau/Technique : Cuivre doré.
+Matériau : cuivre
+Technique : fonte = coulé fondu = fondu (techniques métal)
+Technique : doré = dorure (techniques métal)','Département des Objets d'art du Moyen Age, de la Renaissance et des temps modernes,502)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010098703','Bas-relief : Ananie rendant la vue à Saül','Matériau : bronze
+Technique : techniques métal (sculpture)','Département des Objets d'art du Moyen Age, de la Renaissance et des temps modernes,519)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010101056','Buste de la grande Prétresse, d'après" Iphigénie" de Gluck
+Manufacture de Sèvres','Matériau : biscuit de porcelaine tendre
+Technique : techniques céramique','Département des Objets d'art du Moyen Age, de la Renaissance et des temps modernes,623)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010104730','La Leçon de flageolet','Matériau : biscuit de porcelaine tendre
+Technique : techniques céramique','Département des Objets d'art du Moyen Age, de la Renaissance et des temps modernes,623)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010105133','Groupe sculpté : Bacchus et jeune satyre','Matériau : bronze
+Technique : techniques métal','Département des Objets d'art du Moyen Age, de la Renaissance et des temps modernes,526)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010109262','La Vierge','Matériau : ivoire d'éléphant = défense d'éléphant','Département des Objets d'art du Moyen Age, de la Renaissance et des temps modernes,527)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010111000','Statuette : Diane, un putto et deux chiens','Matériau : ivoire d'éléphant = défense d'éléphant','Département des Objets d'art du Moyen Age, de la Renaissance et des temps modernes,527)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010111056','Hercule enfant et le serpent','Matériau : bronze
+Technique : techniques métal (sculpture)','Département des Objets d'art du Moyen Age, de la Renaissance et des temps modernes,604)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010111626','Hercule terrassant l'Hydre de Lerne','Matériau : bronze','Département des Objets d'art du Moyen Age, de la Renaissance et des temps modernes,604)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010112447','Les quatre Saisons : Automne','Matériau : porcelaine dure
+Technique : techniques céramique','Département des Objets d'art du Moyen Age, de la Renaissance et des temps modernes,610)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010113558','Bas-relief : Ivresse de Silène, avec quatre putti et deux satyreaux','Matériau : ivoire d'éléphant = défense d'éléphant','Département des Objets d'art du Moyen Age, de la Renaissance et des temps modernes,527)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010113635','Perruche, d'une paire (OA 8070)','Matériau : porcelaine dure
+Technique : techniques céramique','Département des Objets d'art du Moyen Age, de la Renaissance et des temps modernes,610)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010113640','Statuette : cavalier en veste jaune','Matériau : bronze (doré)
+Matériau : porcelaine
+Technique : techniques métal (bronze d'ameublement)','Département des Objets d'art du Moyen Age, de la Renaissance et des temps modernes,610)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010113646','Figurine : Jardinier','Matériau : porcelaine dure
+Technique : techniques céramique','Département des Objets d'art du Moyen Age, de la Renaissance et des temps modernes,610)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010115403','Statuette : Hermaphrodite','Matériau : bronze (patine brune)
+Technique : techniques métal','Département des Objets d'art du Moyen Age, de la Renaissance et des temps modernes,526)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010116347','Mercure et l'Amour','Matériau : bronze (patiné)
+Technique : techniques métal (sculpture)','Département des Objets d'art du Moyen Age, de la Renaissance et des temps modernes,NULL)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010237552','Vasque enguirlandée de fleurs','toile','Département des Peintures,605)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010379723','La Foule','bronze fonte à la cire perdue=fondu à la cire perdue','Sculptures des jardins,NULL)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010379763','La Justice tenant le portrait d'Antoine d'Aubray, comte d'Offémont','pierre de Tonnerre','Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes,104)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010409128','Vase orné de masques de satyres cornus et barbus et de guirlandes de fruits','pierre calcaire','Sculptures des jardins,NULL)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010427862','Nature morte','huile sur toile','Département des Peintures,720)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010457022','L'Ame brisant les liens qui l'attachent à la terre','huile sur toile','Département des Peintures,700)
+
+INSERT INTO artwork(arkId, title, creatorId, materialsAndTechniques, collection, roomId)
+VALUES('cl010457023','L'Elève intéressante','huile sur toile','Département des Peintures,929)

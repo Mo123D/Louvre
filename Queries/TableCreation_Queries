@@ -21,7 +21,6 @@ create table artwork (
     arkId varchar(15) primary key,
     title text,
     materialsAndTechniques text,
-    objectType text,
     collection text,
     roomId varchar(3),
     roomWing text,
@@ -33,7 +32,9 @@ create table creator (
     name text,
     countryOfCitizenship text,
     birth date,
-    death date
+    death date,
+    movement text,
+    genre text
 );
 
 create table workAs (
@@ -44,7 +45,6 @@ create table workAs (
 create table wasCreated (
     artworkId varchar(15) references artwork on delete cascade primary key,
     creatorId varchar(8) references creator on delete set NULL,
-    placeOfCreation text,
     startYear integer,
     endYear integer,
     epoch text,

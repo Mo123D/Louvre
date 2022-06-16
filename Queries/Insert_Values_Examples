@@ -13,8 +13,8 @@ insert into artwork (arkid, title, materialsandtechniques, collection, roomid, r
     ('abc123', 'Title 1', 'Paint', 'Top Ten', '12a', 'German'),
     ('def456', 'Title 2', 'Oil', 'Boring', '12a', 'German');
 
-insert into creator (id, name, countryofcitizenship, birth, death, movement, genre) 
-    values ('123abc', 'Max Mustermann', 'Germany', '1993-03-25', NULL, 'Impressionism', 'Landscape');
+insert into creator (id, name, countryofcitizenship, birth, death, creationrole, movement, genre) 
+    values ('123abc', 'Max Mustermann', 'Germany', '1993-03-25', NULL, 'Painter', 'Impressionism', 'Landscape');
     
 insert into workas (creatorid, creationrole)
     values ('123abc', 'Painter');

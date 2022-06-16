@@ -1,0 +1,1487 @@
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q69708','Steuben, Charles Baron de','France','painter',NULL,'history painting','1856','1788');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q69708','Steuben, Charles Baron de','France','lithographer',NULL,'history painting','1856','1788');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q127171','Fragonard, Jean-Honoré','Kingdom of France','painter','Rococo','landscape art','1806','1732');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q127171','Fragonard, Jean-Honoré','Kingdom of France','printmaker','Rococo','landscape art','1806','1732');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q127171','Fragonard, Jean-Honoré','Kingdom of France','drawer','Rococo','landscape art','1806','1732');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q127171','Fragonard, Jean-Honoré','Kingdom of France','illustrator','Rococo','landscape art','1806','1732');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q127171','Fragonard, Jean-Honoré','Kingdom of France','draftsperson','Rococo','landscape art','1806','1732');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q4233718','Spicre, Pierre',NULL,'artist',NULL,NULL,'1806','1732');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q4233718','Spicre, Pierre',NULL,'composer',NULL,NULL,'1806','1732');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q4233718','Spicre, Pierre',NULL,'librettist',NULL,NULL,'1806','1732');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q4233718','Spicre, Pierre',NULL,'writer',NULL,NULL,'1806','1732');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q184212','Géricault, Théodore','France','painter','Romanticism','portrait','1824','1791');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q184212','Géricault, Théodore','France','graphic artist','Romanticism','portrait','1824','1791');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q184212','Géricault, Théodore','France','sculptor','Romanticism','portrait','1824','1791');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q184212','Géricault, Théodore','France','lithographer','Romanticism','portrait','1824','1791');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q184212','Géricault, Théodore','France','draftsperson','Romanticism','portrait','1824','1791');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q168659','Winterhalter, Franz Xaver','German Empire','painter','Rococo Revival','landscape art',NULL,'1827');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q168659','Winterhalter, Franz Xaver','German Empire','lithographer','Rococo Revival','landscape art',NULL,'1827');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q168659','Winterhalter, Franz Xaver','German Empire','drawer','Rococo Revival','landscape art',NULL,'1827');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q368053','Werff, Adriaen van der','Netherlands','painter','Baroque','portrait','1665','1722');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q368053','Werff, Adriaen van der','Netherlands','architect','Baroque','portrait','1665','1722');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q368053','Werff, Adriaen van der','Netherlands','sculptor','Baroque','portrait','1665','1722');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q368053','Werff, Adriaen van der','Netherlands','copperplate engraver','Baroque','portrait','1665','1722');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q388619','Oost, Jacob I van','Southern Netherlands','painter',NULL,'portrait','1671','1601');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q5681','Mantegna, Andrea','Republic of Venice','painter','Renaissance','religious painting','1506','1431');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q5681','Mantegna, Andrea','Republic of Venice','copperplate engraver','Renaissance','religious painting','1506','1431');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q5681','Mantegna, Andrea','Republic of Venice','illuminator','Renaissance','religious painting','1506','1431');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q5681','Mantegna, Andrea','Republic of Venice','sculptor','Renaissance','religious painting','1506','1431');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q5681','Mantegna, Andrea','Republic of Venice','drawer','Renaissance','religious painting','1506','1431');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q5681','Mantegna, Andrea','Republic of Venice','printmaker','Renaissance','religious painting','1506','1431');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q587078','Vollon, Antoine','France','painter',NULL,'landscape art','1900','1833');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q587078','Vollon, Antoine','France','printmaker',NULL,'landscape art','1900','1833');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q587078','Vollon, Antoine','France','draftsperson',NULL,'landscape art','1900','1833');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q1358136','Willeboirts, Thomas','Belgium','painter','Flemish Baroque painting',NULL,'1693','1601');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q207447','Chardin, Jean Baptiste Siméon','France','painter',NULL,'genre painting','1779','1699');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q207447','Chardin, Jean Baptiste Siméon','France','artist',NULL,'genre painting','1779','1699');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q183221','Watteau, Jean-Antoine','France','painter','Rococo','Fête galante','1721','1684');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q183221','Watteau, Jean-Antoine','France','graphic artist','Rococo','Fête galante','1721','1684');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q183221','Watteau, Jean-Antoine','France','drawer','Rococo','Fête galante','1721','1684');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q183221','Watteau, Jean-Antoine','France','artist','Rococo','Fête galante','1721','1684');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q183221','Watteau, Jean-Antoine','France','printmaker','Rococo','Fête galante','1721','1684');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q183221','Watteau, Jean-Antoine','France','draftsperson','Rococo','Fête galante','1721','1684');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q532906','Deroy, Émile','France','painter',NULL,'portrait','1846','1820');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q342467','Chassériau, Théodore','France','painter','Romanticism','portrait','1856','1819');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q469056','Prud'hon, Pierre-Paul','France','painter',NULL,'history painting','1823','1758');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q469056','Prud'hon, Pierre-Paul','France','painter',NULL,'history painting','1823','1758');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q245624','Blondel, Merry-Joseph','France','painter','neoclassicism','history painting','1853','1781');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q262098','Borovikovskii, Vladimir Loukitc','Russian Empire','painter','Orientalism','portrait','1825','1757');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q262098','Borovikovskii, Vladimir Loukitc','Russian Empire','iconographer','Orientalism','portrait','1825','1757');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q1871782','Lagrenée, Louis Jean-François','France','painter',NULL,'portrait','1805','1725');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q1871782','Lagrenée, Louis Jean-François','France','teacher',NULL,'portrait','1805','1725');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q109061','Reni, Guido','Papal States','painter','Baroque','portrait','1642','1575');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q109061','Reni, Guido','Papal States','illustrator','Baroque','portrait','1642','1575');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q109061','Reni, Guido','Papal States','drawer','Baroque','portrait','1642','1575');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q109061','Reni, Guido','Papal States','draftsperson','Baroque','portrait','1642','1575');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q109061','Reni, Guido','Papal States','etcher','Baroque','portrait','1642','1575');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q5599','Rubens, Petrus Paulus','Netherlands','diplomat','Baroque','animal art','1640','1577');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q5599','Rubens, Petrus Paulus','Netherlands','painter','Baroque','animal art','1640','1577');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q5599','Rubens, Petrus Paulus','Netherlands','graphic artist','Baroque','animal art','1640','1577');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q5599','Rubens, Petrus Paulus','Netherlands','printmaker','Baroque','animal art','1640','1577');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q5599','Rubens, Petrus Paulus','Netherlands','draftsperson','Baroque','animal art','1640','1577');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q5599','Rubens, Petrus Paulus','Netherlands','sculptor','Baroque','animal art','1640','1577');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q5599','Rubens, Petrus Paulus','Netherlands','diplomat','Baroque','animal art','1640','1577');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q5599','Rubens, Petrus Paulus','Netherlands','painter','Baroque','animal art','1640','1577');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q5599','Rubens, Petrus Paulus','Netherlands','graphic artist','Baroque','animal art','1640','1577');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q5599','Rubens, Petrus Paulus','Netherlands','printmaker','Baroque','animal art','1640','1577');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q5599','Rubens, Petrus Paulus','Netherlands','draftsperson','Baroque','animal art','1640','1577');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q5599','Rubens, Petrus Paulus','Netherlands','sculptor','Baroque','animal art','1640','1577');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q5599','Rubens, Petrus Paulus','Netherlands','diplomat','Baroque','animal art','1640','1577');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q5599','Rubens, Petrus Paulus','Netherlands','painter','Baroque','animal art','1640','1577');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q5599','Rubens, Petrus Paulus','Netherlands','graphic artist','Baroque','animal art','1640','1577');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q5599','Rubens, Petrus Paulus','Netherlands','printmaker','Baroque','animal art','1640','1577');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q5599','Rubens, Petrus Paulus','Netherlands','draftsperson','Baroque','animal art','1640','1577');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q5599','Rubens, Petrus Paulus','Netherlands','sculptor','Baroque','animal art','1640','1577');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q495110','Solario, Andrea (dit Andrea di Bartolo)','Switzerland','painter','Renaissance',NULL,'1524',NULL);
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q5598','Rembrandt, Harmensz. van Rijn','Dutch Republic','painter','Dutch Golden Age painting','vanitas','1669','1606');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q5598','Rembrandt, Harmensz. van Rijn','Dutch Republic','drawer','Dutch Golden Age painting','vanitas','1669','1606');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q5598','Rembrandt, Harmensz. van Rijn','Dutch Republic','printmaker','Dutch Golden Age painting','vanitas','1669','1606');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q5598','Rembrandt, Harmensz. van Rijn','Dutch Republic','art collector','Dutch Golden Age painting','vanitas','1669','1606');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q5598','Rembrandt, Harmensz. van Rijn','Dutch Republic','etcher','Dutch Golden Age painting','vanitas','1669','1606');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q5598','Rembrandt, Harmensz. van Rijn','Dutch Republic','graphic artist','Dutch Golden Age painting','vanitas','1669','1606');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q5598','Rembrandt, Harmensz. van Rijn','Dutch Republic','collector','Dutch Golden Age painting','vanitas','1669','1606');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q5598','Rembrandt, Harmensz. van Rijn','Dutch Republic','draftsperson','Dutch Golden Age painting','vanitas','1669','1606');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q1345289','Sassoferrato (Giovanni Battista Salvi, dit)','Papal States','painter','Baroque',NULL,'1685','1609');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q317920','Vouet, Simon','France','painter','Baroque painting','religious art','1649','1590');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q317920','Vouet, Simon','France','drawer','Baroque painting','religious art','1649','1590');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q317920','Vouet, Simon','France','draftsperson','Baroque painting','religious art','1649','1590');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q549811','Mellin, Charles','France','painter',NULL,NULL,'1649','1597 ?');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q330400','Mignon, Abraham','Holy Roman Empire','botanical illustrator',NULL,'floral painting','1679','1637');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q330400','Mignon, Abraham','Holy Roman Empire','painter',NULL,'floral painting','1679','1637');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q454678','Van Orley, Bernard','Southern Netherlands','painter',NULL,'portrait','1541',NULL);
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q342467','Chassériau, Théodore','France','painter','Romanticism','portrait','1856','1819');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q68631','Weyden, Rogier van der','Burgundian Netherlands','painter','Early Netherlandish painting','still life','1464','1399 à 1400');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q68631','Weyden, Rogier van der','Burgundian Netherlands','illuminator','Early Netherlandish painting','still life','1464','1399 à 1400');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q68631','Weyden, Rogier van der','Burgundian Netherlands','draftsperson','Early Netherlandish painting','still life','1464','1399 à 1400');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q442491','Patinir, Joachim','Southern Netherlands','painter',NULL,'history painting','1524','1480(?)');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q442491','Patinir, Joachim','Southern Netherlands','drawer',NULL,'history painting','1524','1480(?)');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q315819','Vernet, Claude-Joseph','France','painter',NULL,'sporting event','1789','1714');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q315819','Vernet, Claude-Joseph','France','printmaker',NULL,'sporting event','1789','1714');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q315819','Vernet, Claude-Joseph','France','lithographer',NULL,'sporting event','1789','1714');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q270658','Jordaens, Jacob','Habsburg Netherlands','painter','Baroque','genre art','1678','1593');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q270658','Jordaens, Jacob','Habsburg Netherlands','draftsperson','Baroque','genre art','1678','1593');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q270658','Jordaens, Jacob','Habsburg Netherlands','drawer','Baroque','genre art','1678','1593');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q951849','Nuvolone, Carlo Francesco',NULL,'painter',NULL,'portrait','1662','1609');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q8457','Corrège (Antonio Allegri, dit Il Correggio)','Signoria di Correggio','painter','Renaissance','religious painting','1534','1489');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q8457','Corrège (Antonio Allegri, dit Il Correggio)','Signoria di Correggio','drawer','Renaissance','religious painting','1534','1489');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q8457','Corrège (Antonio Allegri, dit Il Correggio)','Signoria di Correggio','fresco painter','Renaissance','religious painting','1534','1489');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q49898','Rigaud, Hyacinthe','Principality of Catalonia','painter','Baroque','religious painting','1743','1659');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q49898','Rigaud, Hyacinthe','Principality of Catalonia','portraitist','Baroque','religious painting','1743','1659');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q49898','Rigaud, Hyacinthe','Principality of Catalonia','draftsperson','Baroque','religious painting','1743','1659');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q285666','Léandre, Charles Lucien','France','painter',NULL,'caricature','1930','1862');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q285666','Léandre, Charles Lucien','France','caricaturist',NULL,'caricature','1930','1862');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q285666','Léandre, Charles Lucien','France','illustrator',NULL,'caricature','1930','1862');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q285666','Léandre, Charles Lucien','France','lithographer',NULL,'caricature','1930','1862');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q285666','Léandre, Charles Lucien','France','poster artist',NULL,'caricature','1930','1862');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q285666','Léandre, Charles Lucien','France','graphic artist',NULL,'caricature','1930','1862');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q285666','Léandre, Charles Lucien','France','drawer',NULL,'caricature','1930','1862');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q175130','Sisley, Alfred','United Kingdom of Great Britain and Ireland','painter','Impressionism','still life','1899','1839');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q175130','Sisley, Alfred','United Kingdom of Great Britain and Ireland','etcher','Impressionism','still life','1899','1839');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q175130','Sisley, Alfred','United Kingdom of Great Britain and Ireland','lithographer','Impressionism','still life','1899','1839');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q39931','Renoir, Pierre Auguste','France','painter','Impressionism','still life','1919','1841');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q39931','Renoir, Pierre Auguste','France','sculptor','Impressionism','still life','1919','1841');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q39931','Renoir, Pierre Auguste','France','illustrator','Impressionism','still life','1919','1841');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q39931','Renoir, Pierre Auguste','France','printmaker','Impressionism','still life','1919','1841');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q39931','Renoir, Pierre Auguste','France','drawer','Impressionism','still life','1919','1841');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q39931','Renoir, Pierre Auguste','France','draftsperson','Impressionism','still life','1919','1841');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q39931','Renoir, Pierre Auguste','France','graphic artist','Impressionism','still life','1919','1841');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q39931','Renoir, Pierre Auguste','France','porcelain painter','Impressionism','still life','1919','1841');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q33477','Delacroix, Eugène','France','artist','Romanticism','battle painting','1863','1798');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q33477','Delacroix, Eugène','France','painter','Romanticism','battle painting','1863','1798');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q33477','Delacroix, Eugène','France','diarist','Romanticism','battle painting','1863','1798');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q33477','Delacroix, Eugène','France','lithographer','Romanticism','battle painting','1863','1798');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q33477','Delacroix, Eugène','France','photographer','Romanticism','battle painting','1863','1798');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q33477','Delacroix, Eugène','France','drawer','Romanticism','battle painting','1863','1798');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q33477','Delacroix, Eugène','France','muralist','Romanticism','battle painting','1863','1798');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q33477','Delacroix, Eugène','France','draftsperson','Romanticism','battle painting','1863','1798');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q33477','Delacroix, Eugène','France','pastellist','Romanticism','battle painting','1863','1798');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q213163','Vigée-Le Brun, Louise-Élisabeth','France','painter','neoclassicism','portrait','1842','1755');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q213163','Vigée-Le Brun, Louise-Élisabeth','France','salonnière','neoclassicism','portrait','1842','1755');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q213163','Vigée-Le Brun, Louise-Élisabeth','France','writer','neoclassicism','portrait','1842','1755');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q5233','Picot, François Édouard','France','painter','neoclassicism','mythological painting','1868','1786');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q60099','Drost, Willem','Netherlands','painter','Baroque','history painting',NULL,'1633');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q184212','Géricault, Théodore','France','painter','Romanticism','portrait','1824','1791');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q184212','Géricault, Théodore','France','graphic artist','Romanticism','portrait','1824','1791');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q184212','Géricault, Théodore','France','sculptor','Romanticism','portrait','1824','1791');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q184212','Géricault, Théodore','France','lithographer','Romanticism','portrait','1824','1791');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q184212','Géricault, Théodore','France','draftsperson','Romanticism','portrait','1824','1791');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q1336030','Tristán de Escamilla, Luis','Spain','painter',NULL,NULL,'1624','1585(?)');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q184212','Géricault, Théodore','France','painter','Romanticism','portrait','1824','1791');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q184212','Géricault, Théodore','France','graphic artist','Romanticism','portrait','1824','1791');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q184212','Géricault, Théodore','France','sculptor','Romanticism','portrait','1824','1791');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q184212','Géricault, Théodore','France','lithographer','Romanticism','portrait','1824','1791');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q184212','Géricault, Théodore','France','draftsperson','Romanticism','portrait','1824','1791');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q83155','David, Jacques-Louis','France','painter','neoclassicism','religious painting','1748','1825');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q83155','David, Jacques-Louis','France','politician','neoclassicism','religious painting','1748','1825');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q83155','David, Jacques-Louis','France','draftsperson','neoclassicism','religious painting','1748','1825');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q342467','Chassériau, Théodore','France','painter','Romanticism','portrait','1856','1819');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q342467','Chassériau, Théodore','France','painter','Romanticism','portrait','1856','1819');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q180932','Boucher, François','France','painter','Rococo','military art','1770','1703');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q180932','Boucher, François','France','engraver','Rococo','military art','1770','1703');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q180932','Boucher, François','France','tapestry designer','Rococo','military art','1770','1703');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q180932','Boucher, François','France','illustrator','Rococo','military art','1770','1703');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q180932','Boucher, François','France','etcher','Rococo','military art','1770','1703');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q180932','Boucher, François','France','draftsperson','Rococo','military art','1770','1703');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q180932','Boucher, François','France','designer','Rococo','military art','1770','1703');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q180932','Boucher, François','France','exlibrist','Rococo','military art','1770','1703');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q3842992','Boucher, François',NULL,'painter',NULL,NULL,'1770','1703');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q33477','Delacroix, Eugène','France','artist','Romanticism','battle painting','1863','1798');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q33477','Delacroix, Eugène','France','painter','Romanticism','battle painting','1863','1798');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q33477','Delacroix, Eugène','France','diarist','Romanticism','battle painting','1863','1798');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q33477','Delacroix, Eugène','France','lithographer','Romanticism','battle painting','1863','1798');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q33477','Delacroix, Eugène','France','photographer','Romanticism','battle painting','1863','1798');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q33477','Delacroix, Eugène','France','drawer','Romanticism','battle painting','1863','1798');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q33477','Delacroix, Eugène','France','muralist','Romanticism','battle painting','1863','1798');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q33477','Delacroix, Eugène','France','draftsperson','Romanticism','battle painting','1863','1798');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q33477','Delacroix, Eugène','France','pastellist','Romanticism','battle painting','1863','1798');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q3071902','Lauri, Filippo','Papal States','painter',NULL,NULL,'1694','1623');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q17169','Bellini, Giovanni','Republic of Venice','painter','Renaissance','portrait','1516',NULL);
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q17169','Bellini, Giovanni','Republic of Venice','illuminator','Renaissance','portrait','1516',NULL);
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q17169','Bellini, Giovanni','Republic of Venice','drawer','Renaissance','portrait','1516',NULL);
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q339270','Marseus, Otto','Netherlands','painter','Baroque',NULL,'1678','1619');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q334946','Valenciennes, Pierre de','France','painter',NULL,NULL,'1819','1750');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q436797','Hoogstraten, Samuel van','Netherlands','painter','Baroque','portrait','1678','1627');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q436797','Hoogstraten, Samuel van','Netherlands','writer','Baroque','portrait','1678','1627');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q436797','Hoogstraten, Samuel van','Netherlands','poet','Baroque','portrait','1678','1627');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q436797','Hoogstraten, Samuel van','Netherlands','graphic artist','Baroque','portrait','1678','1627');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q436797','Hoogstraten, Samuel van','Netherlands','art historian','Baroque','portrait','1678','1627');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q83155','David, Jacques-Louis','France','painter','neoclassicism','religious painting','1748','1825');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q83155','David, Jacques-Louis','France','politician','neoclassicism','religious painting','1748','1825');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q83155','David, Jacques-Louis','France','draftsperson','neoclassicism','religious painting','1748','1825');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q437724','Strozzi, Bernardo','Republic of Genoa','painter',NULL,NULL,'1644','1581');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q2739274','Spada, Leonello',NULL,'painter',NULL,NULL,'1622','1576');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q2739274','Spada, Leonello',NULL,'printmaker',NULL,NULL,'1622','1576');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q495110','Solario, Andrea (dit Andrea di Bartolo)','Switzerland','painter','Renaissance',NULL,'1524',NULL);
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q15962367','Andrieu, Pierre','France','painter',NULL,NULL,'1863','1798');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q15623401','Andrieu, Pierre','Spain','painter',NULL,NULL,'fin du XVe siècle','1798');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q297838','Ribera, Jusepe de','Crown of Aragon','painter','Baroque','mythological painting','1652','1591');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q297838','Ribera, Jusepe de','Crown of Aragon','printmaker','Baroque','mythological painting','1652','1591');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q297838','Ribera, Jusepe de','Crown of Aragon','graphic artist','Baroque','mythological painting','1652','1591');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q297838','Ribera, Jusepe de','Crown of Aragon','drawer','Baroque','mythological painting','1652','1591');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q297838','Ribera, Jusepe de','Crown of Aragon','draftsperson','Baroque','mythological painting','1652','1591');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q3107190','Ribera, Jusepe de',NULL,'painter',NULL,NULL,'1470',NULL);
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q3107190','Ribera, Jusepe de',NULL,'painter',NULL,NULL,'1470',NULL);
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q41264','Vermeer, Johannes','Dutch Republic','painter','Baroque painting','portrait','1632','1675');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q41264','Vermeer, Johannes','Dutch Republic','art collector','Baroque painting','portrait','1632','1675');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q1358364','Pellegrini, Giovanni Antonio','Republic of Venice','painter',NULL,NULL,'1741','1675');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q333563','Abate, Nicolò dell'','France','painter','School of Fontainebleau',NULL,'1571 ?','1509 ?');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q19944349','Przepiorski, K. Lucjan',NULL,'painter',NULL,NULL,'1898','1830 à 1832');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q3164276','Mauzaisse, Jean Baptiste','France','lithographer',NULL,NULL,'1844','1784');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q3164276','Mauzaisse, Jean Baptiste','France','painter',NULL,NULL,'1844','1784');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q118810','Benoist, Marie-Guillemine','France','painter','neoclassicism','portrait painting','1826','1768');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q2211325','Hesdin, Jacquemart','France','painter',NULL,NULL,'1826','1768');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q2211325','Hesdin, Jacquemart','France','illuminator',NULL,NULL,'1826','1768');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q153793','Braque, Georges','France','sculptor','fauvism','landscape art','1963','1882');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q153793','Braque, Georges','France','painter','fauvism','landscape art','1963','1882');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q153793','Braque, Georges','France','engraver','fauvism','landscape art','1963','1882');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q153793','Braque, Georges','France','lithographer','fauvism','landscape art','1963','1882');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q153793','Braque, Georges','France','designer','fauvism','landscape art','1963','1882');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q153793','Braque, Georges','France','jewelry designer','fauvism','landscape art','1963','1882');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q153793','Braque, Georges','France','scenographer','fauvism','landscape art','1963','1882');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q153793','Braque, Georges','France','graphic artist','fauvism','landscape art','1963','1882');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q153793','Braque, Georges','France','printmaker','fauvism','landscape art','1963','1882');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q153793','Braque, Georges','France','collagist','fauvism','landscape art','1963','1882');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q153793','Braque, Georges','France','draftsperson','fauvism','landscape art','1963','1882');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q153793','Braque, Georges','France','drawer','fauvism','landscape art','1963','1882');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q1383101','Biard, François','France','painter',NULL,'genre painting','1882','1799');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q505613','Batoni, Pompeo','Italy','painter','classicism','portrait','1787','1708');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q591684','Vignon, Claude','France','painter','Baroque',NULL,'1670','1593');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q591684','Vignon, Claude','France','engraver','Baroque',NULL,'1670','1593');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q591684','Vignon, Claude','France','drawer','Baroque',NULL,'1670','1593');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q591684','Vignon, Claude','France','etcher','Baroque',NULL,'1670','1593');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q164696','Baldung, Grien','Germany','painter','German Renaissance','religious painting','1545','1484 à 1485');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q164696','Baldung, Grien','Germany','illustrator','German Renaissance','religious painting','1545','1484 à 1485');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q164696','Baldung, Grien','Germany','engraver','German Renaissance','religious painting','1545','1484 à 1485');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q164696','Baldung, Grien','Germany','printmaker','German Renaissance','religious painting','1545','1484 à 1485');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q164696','Baldung, Grien','Germany','graphic designer','German Renaissance','religious painting','1545','1484 à 1485');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q164696','Baldung, Grien','Germany','stained-glass artist','German Renaissance','religious painting','1545','1484 à 1485');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q164696','Baldung, Grien','Germany','book artist','German Renaissance','religious painting','1545','1484 à 1485');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q164696','Baldung, Grien','Germany','draftsperson','German Renaissance','religious painting','1545','1484 à 1485');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q180932','Boucher, François','France','painter','Rococo','military art','1770','1703');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q180932','Boucher, François','France','engraver','Rococo','military art','1770','1703');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q180932','Boucher, François','France','tapestry designer','Rococo','military art','1770','1703');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q180932','Boucher, François','France','illustrator','Rococo','military art','1770','1703');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q180932','Boucher, François','France','etcher','Rococo','military art','1770','1703');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q180932','Boucher, François','France','draftsperson','Rococo','military art','1770','1703');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q180932','Boucher, François','France','designer','Rococo','military art','1770','1703');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q180932','Boucher, François','France','exlibrist','Rococo','military art','1770','1703');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q553795','Bourdon, Sébastien','France','painter',NULL,NULL,'1671','1616');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q553795','Bourdon, Sébastien','France','engraver',NULL,NULL,'1671','1616');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q553795','Bourdon, Sébastien','France','art theorist',NULL,NULL,'1671','1616');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q68631','Weyden, Rogier van der','Burgundian Netherlands','painter','Early Netherlandish painting','still life','1464','1399 à 1400');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q68631','Weyden, Rogier van der','Burgundian Netherlands','illuminator','Early Netherlandish painting','still life','1464','1399 à 1400');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q68631','Weyden, Rogier van der','Burgundian Netherlands','draftsperson','Early Netherlandish painting','still life','1464','1399 à 1400');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q705421','Martorell, Bernart','Crown of Aragon','painter','International Gothic','religious art','1464','1399 à 1400');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q705421','Martorell, Bernart','Crown of Aragon','illustrator','International Gothic','religious art','1464','1399 à 1400');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q705421','Martorell, Bernart','Crown of Aragon','illuminator','International Gothic','religious art','1464','1399 à 1400');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q3309511','Dorigny, Michel','France','painter','classicism',NULL,'1665','1617');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q3309511','Dorigny, Michel','France','printmaker','classicism',NULL,'1665','1617');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q122382','Füssli, Johann Heinrich','United Kingdom','painter','neoclassicism','portrait','1825','1741');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q122382','Füssli, Johann Heinrich','United Kingdom','poet','neoclassicism','portrait','1825','1741');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q122382','Füssli, Johann Heinrich','United Kingdom','drawer','neoclassicism','portrait','1825','1741');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q122382','Füssli, Johann Heinrich','United Kingdom','illustrator','neoclassicism','portrait','1825','1741');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q122382','Füssli, Johann Heinrich','United Kingdom','graphic artist','neoclassicism','portrait','1825','1741');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q122382','Füssli, Johann Heinrich','United Kingdom','draftsperson','neoclassicism','portrait','1825','1741');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q122382','Füssli, Johann Heinrich','United Kingdom','art historian','neoclassicism','portrait','1825','1741');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q506483','Ricci, Sebastiano','Republic of Venice','painter',NULL,NULL,'1734','1659');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q378783','Cano, Alonso','Spain','painter','Baroque','religious art','1667','1601');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q378783','Cano, Alonso','Spain','sculptor','Baroque','religious art','1667','1601');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q378783','Cano, Alonso','Spain','architect','Baroque','religious art','1667','1601');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q378783','Cano, Alonso','Spain','draftsperson','Baroque','religious art','1667','1601');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q23380','Ingres, Jean-Auguste-Dominique','France','painter','neoclassicism','Orientalism','1867','1780');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q23380','Ingres, Jean-Auguste-Dominique','France','politician','neoclassicism','Orientalism','1867','1780');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q23380','Ingres, Jean-Auguste-Dominique','France','violinist','neoclassicism','Orientalism','1867','1780');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q23380','Ingres, Jean-Auguste-Dominique','France','drawer','neoclassicism','Orientalism','1867','1780');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q23380','Ingres, Jean-Auguste-Dominique','France','printmaker','neoclassicism','Orientalism','1867','1780');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q23380','Ingres, Jean-Auguste-Dominique','France','graphic artist','neoclassicism','Orientalism','1867','1780');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q23380','Ingres, Jean-Auguste-Dominique','France','architect','neoclassicism','Orientalism','1867','1780');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q23380','Ingres, Jean-Auguste-Dominique','France','draftsperson','neoclassicism','Orientalism','1867','1780');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q1663045','Volaire, Pierre Jacques','France','painter',NULL,NULL,'1802','1729');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q240396','Vermeyen, Jan Cornelisz','Netherlands','painter',NULL,'portrait','1559','1500');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q5408732','Lembri, Père','Spain','painter',NULL,NULL,'1420','1400 ?');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q127171','Fragonard, Jean-Honoré','Kingdom of France','painter','Rococo','landscape art','1806','1732');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q127171','Fragonard, Jean-Honoré','Kingdom of France','printmaker','Rococo','landscape art','1806','1732');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q127171','Fragonard, Jean-Honoré','Kingdom of France','drawer','Rococo','landscape art','1806','1732');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q127171','Fragonard, Jean-Honoré','Kingdom of France','illustrator','Rococo','landscape art','1806','1732');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q127171','Fragonard, Jean-Honoré','Kingdom of France','draftsperson','Rococo','landscape art','1806','1732');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q318769','Guardi, Francesco','Republic of Venice','painter','Rococo','landscape art','1793','1712');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q318769','Guardi, Francesco','Republic of Venice','graphic artist','Rococo','landscape art','1793','1712');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q386127','Dubreuil, Toussaint','France','painter','School of Fontainebleau',NULL,'1602','1561');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q659429','Bosio, François-Joseph','Monaco','sculptor',NULL,NULL,'1768','1845');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q659429','Bosio, François-Joseph','Monaco','teacher',NULL,NULL,'1768','1845');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q659429','Bosio, François-Joseph','Monaco','painter',NULL,NULL,'1768','1845');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q256079','Rossellino, Antonio','Italy','sculptor',NULL,NULL,'1427','1479');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q256079','Rossellino, Antonio','Italy','architect',NULL,NULL,'1427','1479');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q195655','Della Robbia, Andrea','Republic of Florence','sculptor','Renaissance',NULL,'1435','1525');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q195655','Della Robbia, Andrea','Republic of Florence','ceramicist','Renaissance',NULL,'1435','1525');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q2583927','Cortot, Jean Pierre','France','sculptor',NULL,NULL,'1787','1843');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q2593853','Giraud, Pierre François Grégoire','France','sculptor',NULL,NULL,'1783','1836');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q3371648','Giraud, Pierre François Grégoire','France','sculptor',NULL,NULL,'1783','1873');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q1362889','Pradier, James','Switzerland','sculptor',NULL,NULL,'1790','1852');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q1362889','Pradier, James','Switzerland','painter',NULL,NULL,'1790','1852');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q3340717','Raggi, Nicolas Bernard','France','sculptor','neoclassicism',NULL,'1791','1862');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q3340717','Raggi, Nicolas Bernard','France','sculptor','neoclassicism',NULL,'1791','1862');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q1362889','Pradier, James','Switzerland','sculptor',NULL,NULL,'1790','1852');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q1362889','Pradier, James','Switzerland','painter',NULL,NULL,'1790','1852');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q3484399','Mansion, Simon','France','cabinetmaker',NULL,NULL,'1773','1854');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q3484399','Mansion, Simon','France','sculptor',NULL,NULL,'1773','1854');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q3170555','Debay, Jean Baptiste, le père','France','sculptor',NULL,NULL,'1779','1863');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q3059896','Gonon, Eugène','France','founder',NULL,NULL,'1804','1865');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q346491','Rude, François','France','sculptor',NULL,NULL,'1784','1855');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q2343714','Nanteuil, Charles François','France','sculptor',NULL,NULL,'1792','1865');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q515475','Gois, Edme Etienne François','France','sculptor',NULL,NULL,'1765','1836');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q3379186','Roland, Philippe Laurent','France','sculptor',NULL,NULL,'1745','1816');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q1233320','Lemot, François Frédéric','France','sculptor',NULL,NULL,'1772','1827');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q1233320','Lemot, François Frédéric','France','sculptor',NULL,NULL,'1772','1827');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q19243560','Chéret, Louis Jean Baptiste','France','silversmith',NULL,NULL,'1810','1763');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q19243560','Chéret, Louis Jean Baptiste','France','goldsmith',NULL,NULL,'1810','1763');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q1969605','Sluter, Claus','France','sculptor',NULL,NULL,'1389','1355');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q3697719','Stati, Cristoforo',NULL,'sculptor','mannerism',NULL,'1556','1619');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q3697719','Stati, Cristoforo',NULL,'sculptor','mannerism',NULL,'1556','1619');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q451489','Barye, Antoine Louis','France','painter',NULL,NULL,'1875','1795');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q451489','Barye, Antoine Louis','France','sculptor',NULL,NULL,'1875','1795');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q451489','Barye, Antoine Louis','France','founder',NULL,NULL,'1875','1795');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q451489','Barye, Antoine Louis','France','painter',NULL,NULL,'1875','1795');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q451489','Barye, Antoine Louis','France','sculptor',NULL,NULL,'1875','1795');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q451489','Barye, Antoine Louis','France','founder',NULL,NULL,'1875','1795');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q451489','Barye, Antoine Louis','France','painter',NULL,NULL,'1875','1795');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q451489','Barye, Antoine Louis','France','sculptor',NULL,NULL,'1875','1795');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q451489','Barye, Antoine Louis','France','founder',NULL,NULL,'1875','1795');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q451489','Barye, Antoine Louis','France','painter',NULL,NULL,'1875','1795');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q451489','Barye, Antoine Louis','France','sculptor',NULL,NULL,'1875','1795');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q451489','Barye, Antoine Louis','France','founder',NULL,NULL,'1875','1795');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q451489','Barye, Antoine Louis','France','painter',NULL,NULL,'1875','1795');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q451489','Barye, Antoine Louis','France','sculptor',NULL,NULL,'1875','1795');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q451489','Barye, Antoine Louis','France','founder',NULL,NULL,'1875','1795');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q529623','Pigalle, Jean-Baptiste','France','sculptor','neoclassicism',NULL,'1714','1785');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q1010700','Della Robbia, Giovanni',NULL,'sculptor',NULL,NULL,'1469','1529-1530');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q1010700','Della Robbia, Giovanni',NULL,'medalist',NULL,NULL,'1469','1529-1530');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q1010700','Della Robbia, Giovanni',NULL,'ceramicist',NULL,NULL,'1469','1529-1530');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q1010700','Della Robbia, Giovanni',NULL,'sculptor',NULL,NULL,'1469','1529-1530');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q1010700','Della Robbia, Giovanni',NULL,'medalist',NULL,NULL,'1469','1529-1530');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q1010700','Della Robbia, Giovanni',NULL,'ceramicist',NULL,NULL,'1469','1529-1530');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q1010700','Della Robbia, Giovanni',NULL,'sculptor',NULL,NULL,'1469','1529-1530');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q1010700','Della Robbia, Giovanni',NULL,'medalist',NULL,NULL,'1469','1529-1530');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q1010700','Della Robbia, Giovanni',NULL,'ceramicist',NULL,NULL,'1469','1529-1530');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q1010700','Della Robbia, Giovanni',NULL,'sculptor',NULL,NULL,'1469','1529-1530');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q1010700','Della Robbia, Giovanni',NULL,'medalist',NULL,NULL,'1469','1529-1530');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q1010700','Della Robbia, Giovanni',NULL,'ceramicist',NULL,NULL,'1469','1529-1530');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q1010700','Della Robbia, Giovanni',NULL,'sculptor',NULL,NULL,'1469','1529-1530');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q1010700','Della Robbia, Giovanni',NULL,'medalist',NULL,NULL,'1469','1529-1530');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q1010700','Della Robbia, Giovanni',NULL,'ceramicist',NULL,NULL,'1469','1529-1530');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q3093728','Pech, Gabriel Edouard Baptiste','France','sculptor',NULL,NULL,'1854','1930');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q2615602','Guillaume, Jean Baptiste Claude Eugène','France','sculptor',NULL,NULL,'1822','1905');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q2615602','Guillaume, Jean Baptiste Claude Eugène','France','professor',NULL,NULL,'1822','1905');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q2615602','Guillaume, Jean Baptiste Claude Eugène','France','art critic',NULL,NULL,'1822','1905');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q2615602','Guillaume, Jean Baptiste Claude Eugène','France','sculptor',NULL,NULL,'1822','1905');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q2615602','Guillaume, Jean Baptiste Claude Eugène','France','professor',NULL,NULL,'1822','1905');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q2615602','Guillaume, Jean Baptiste Claude Eugène','France','art critic',NULL,NULL,'1822','1905');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q440053','L'Orme, Philibert de','Kingdom of France','architect',NULL,NULL,'1510','1570');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q440053','L'Orme, Philibert de','Kingdom of France','military engineer',NULL,NULL,'1510','1570');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q2976696','Attiret, Claude François','France','sculptor',NULL,NULL,'1728','1804');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q2976696','Attiret, Claude François','France','sculptor',NULL,NULL,'1728','1804');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q2979538','Michel, Claude dit Clodion','France','sculptor',NULL,NULL,'1738','1814');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q160538','Bernin, Gian Lorenzo Bernini, dit Le Bernin','Italy','sculptor','Baroque','caricature','07/12/1598','28/11/1680');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q160538','Bernin, Gian Lorenzo Bernini, dit Le Bernin','Italy','artist','Baroque','caricature','07/12/1598','28/11/1680');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q160538','Bernin, Gian Lorenzo Bernini, dit Le Bernin','Italy','painter','Baroque','caricature','07/12/1598','28/11/1680');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q160538','Bernin, Gian Lorenzo Bernini, dit Le Bernin','Italy','architect','Baroque','caricature','07/12/1598','28/11/1680');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q160538','Bernin, Gian Lorenzo Bernini, dit Le Bernin','Italy','draftsperson','Baroque','caricature','07/12/1598','28/11/1680');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q160538','Bernin, Gian Lorenzo Bernini, dit Le Bernin','Italy','designer','Baroque','caricature','1598','1680');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q160538','Bernin, Gian Lorenzo Bernini, dit Le Bernin','Italy','sculptor','Baroque','caricature','1598','1680');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q160538','Bernin, Gian Lorenzo Bernini, dit Le Bernin','Italy','artist','Baroque','caricature','1598','1680');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q160538','Bernin, Gian Lorenzo Bernini, dit Le Bernin','Italy','painter','Baroque','caricature','1598','1680');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q160538','Bernin, Gian Lorenzo Bernini, dit Le Bernin','Italy','architect','Baroque','caricature','1598','1680');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q160538','Bernin, Gian Lorenzo Bernini, dit Le Bernin','Italy','draftsperson','Baroque','caricature','1598','1680');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q160538','Bernin, Gian Lorenzo Bernini, dit Le Bernin','Italy','designer','Baroque','caricature','1598','1680');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q160538','Bernin, Gian Lorenzo Bernini, dit Le Bernin','Italy','sculptor','Baroque','caricature','1598','1680');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q160538','Bernin, Gian Lorenzo Bernini, dit Le Bernin','Italy','artist','Baroque','caricature','1598','1680');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q160538','Bernin, Gian Lorenzo Bernini, dit Le Bernin','Italy','painter','Baroque','caricature','1598','1680');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q160538','Bernin, Gian Lorenzo Bernini, dit Le Bernin','Italy','architect','Baroque','caricature','1598','1680');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q160538','Bernin, Gian Lorenzo Bernini, dit Le Bernin','Italy','draftsperson','Baroque','caricature','1598','1680');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q160538','Bernin, Gian Lorenzo Bernini, dit Le Bernin','Italy','designer','Baroque','caricature','1598','1680');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q15968101','Dardel, Robert Guillaume','France','sculptor',NULL,NULL,'1749','1821');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q15968101','Dardel, Robert Guillaume','France','painter',NULL,NULL,'1749','1821');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q58069711','Cardon, Servais',NULL,'sculptor',NULL,NULL,'1608','1649');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q346491','Rude, François','France','sculptor',NULL,NULL,'1784','1855');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q346491','Rude, François','France','sculptor',NULL,NULL,'1784','1855');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q179725','Dumont, Augustin','France','sculptor',NULL,NULL,'1801','1884');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q318741','Houdon, Jean Antoine','France','sculptor',NULL,'portrait','1741','1828');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q318741','Houdon, Jean Antoine','France','medalist',NULL,'portrait','1741','1828');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q346491','Rude, François','France','sculptor',NULL,NULL,'1784','1855');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q346491','Rude, François','France','sculptor',NULL,NULL,'1784','1855');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q3157914','Dumont, Jacques-Edme','France','sculptor',NULL,NULL,'1761','1844');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q507800','Lemoyne, Jean-Baptiste II','France','sculptor',NULL,NULL,'1704','1778');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q507800','Lemoyne, Jean-Baptiste II','France','painter',NULL,NULL,'1704','1778');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q2519517','Briosco, Benedetto da','Italy','sculptor',NULL,NULL,'avant 1526',NULL);
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q2519517','Briosco, Benedetto da','Italy','architect',NULL,NULL,'avant 1526',NULL);
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q47812','Thorvaldsen, Bertel','Denmark','sculptor',NULL,NULL,'1770','1844');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q47812','Thorvaldsen, Bertel','Denmark','sculptor',NULL,NULL,'1770','1844');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q19404687','Monot, Martin Claude','France','sculptor',NULL,NULL,'1733','1803');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q505134','Coysevox, Antoine','Mexico','sculptor','Louis XIV style',NULL,'1720','1640');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q601707','Corradini, Antonio','Republic of Venice','sculptor','Rococo',NULL,'1688','1752');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q2979538','Michel, Claude dit Clodion','France','sculptor',NULL,NULL,'1738','1814');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q47987031','Poissant, Thibault','France','sculptor',NULL,NULL,'1605','1668');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q47987031','Poissant, Thibault','France','architect',NULL,NULL,'1605','1668');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q47987031','Poissant, Thibault','France','sculptor',NULL,NULL,'1605','1668');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q47987031','Poissant, Thibault','France','architect',NULL,NULL,'1605','1668');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q47987031','Poissant, Thibault','France','sculptor',NULL,NULL,'1605','1668');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q47987031','Poissant, Thibault','France','architect',NULL,NULL,'1605','1668');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q524291','Pajou, Augustin','France','sculptor',NULL,'portrait','1730','1809');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q3170555','Debay, Jean Baptiste, le père','France','sculptor',NULL,NULL,'1779','1863');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q3170555','Debay, Jean Baptiste, le père','France','sculptor',NULL,NULL,'1779','1863');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q3157914','Dumont, Jacques-Edme','France','sculptor',NULL,NULL,'1761','1844');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q3157914','Dumont, Jacques-Edme','France','sculptor',NULL,NULL,'1761','1844');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q712497','Girardon, François','France','sculptor','classicism',NULL,'1628','1715');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q924618','Sergel, Johan Tobias','Sweden','sculptor',NULL,NULL,'1740','1814');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q924618','Sergel, Johan Tobias','Sweden','painter',NULL,NULL,'1740','1814');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q924618','Sergel, Johan Tobias','Sweden','cartoonist',NULL,NULL,'1740','1814');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q3163744','Barre, Jean Auguste','France','sculptor',NULL,NULL,'1811','1896');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q3163744','Barre, Jean Auguste','France','medalist',NULL,NULL,'1811','1896');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q510315','Delvaux, Laurent','Austrian Netherlands','sculptor',NULL,NULL,'1696','1778');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q51621943','Poirier, Claude',NULL,'sculptor',NULL,NULL,'1656','1729');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q346491','Rude, François','France','sculptor',NULL,NULL,'1784','1855');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q766022','Rolland, A.','France','sculptor',NULL,NULL,'1822','1894');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q710530','Landowski, Paul Maximilien','France','sculptor',NULL,NULL,'1875','1961');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q710530','Landowski, Paul Maximilien','France','designer',NULL,NULL,'1875','1961');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q153920','Maillol, Aristide','France','sculptor','Symbolism',NULL,'1944','1861');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q153920','Maillol, Aristide','France','painter','Symbolism',NULL,'1944','1861');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q153920','Maillol, Aristide','France','lithographer','Symbolism',NULL,'1944','1861');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q153920','Maillol, Aristide','France','etcher','Symbolism',NULL,'1944','1861');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q153920','Maillol, Aristide','France','printmaker','Symbolism',NULL,'1944','1861');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q153920','Maillol, Aristide','France','drawer','Symbolism',NULL,'1944','1861');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q153920','Maillol, Aristide','France','sculptor','Symbolism',NULL,'1944','1861');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q153920','Maillol, Aristide','France','painter','Symbolism',NULL,'1944','1861');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q153920','Maillol, Aristide','France','lithographer','Symbolism',NULL,'1944','1861');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q153920','Maillol, Aristide','France','etcher','Symbolism',NULL,'1944','1861');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q153920','Maillol, Aristide','France','printmaker','Symbolism',NULL,'1944','1861');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q153920','Maillol, Aristide','France','drawer','Symbolism',NULL,'1944','1861');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q153920','Maillol, Aristide','France','sculptor','Symbolism',NULL,'1861','1944');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q153920','Maillol, Aristide','France','painter','Symbolism',NULL,'1861','1944');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q153920','Maillol, Aristide','France','lithographer','Symbolism',NULL,'1861','1944');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q153920','Maillol, Aristide','France','etcher','Symbolism',NULL,'1861','1944');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q153920','Maillol, Aristide','France','printmaker','Symbolism',NULL,'1861','1944');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q153920','Maillol, Aristide','France','drawer','Symbolism',NULL,'1861','1944');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q959688','Valadier, Guiseppe','Papal States','architect',NULL,NULL,'1726','1785');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q959688','Valadier, Guiseppe','Papal States','art historian',NULL,NULL,'1726','1785');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q959688','Valadier, Guiseppe','Papal States','archaeologist',NULL,NULL,'1726','1785');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q959688','Valadier, Guiseppe','Papal States','urban planner',NULL,NULL,'1726','1785');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q4233718','Valadier, Guiseppe',NULL,'artist',NULL,NULL,'1726','1785');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q4233718','Valadier, Guiseppe',NULL,'composer',NULL,NULL,'1726','1785');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q4233718','Valadier, Guiseppe',NULL,'librettist',NULL,NULL,'1726','1785');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q4233718','Valadier, Guiseppe',NULL,'writer',NULL,NULL,'1726','1785');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q333323','Cortone, Pierre de (Berrettini, Pietro)','Italy','painter','Baroque','architect','1669','1597');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q333323','Cortone, Pierre de (Berrettini, Pietro)','Italy','architect','Baroque','architect','1669','1597');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q333323','Cortone, Pierre de (Berrettini, Pietro)','Italy','general contractor','Baroque','architect','1669','1597');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q333323','Cortone, Pierre de (Berrettini, Pietro)','Italy','drawer','Baroque','architect','1669','1597');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q1608030','Boizot, Louis Simon','France','sculptor',NULL,NULL,'1743','1809');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q180932','Boucher, François','France','painter','Rococo','military art','1770','1703');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q180932','Boucher, François','France','engraver','Rococo','military art','1770','1703');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q180932','Boucher, François','France','tapestry designer','Rococo','military art','1770','1703');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q180932','Boucher, François','France','illustrator','Rococo','military art','1770','1703');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q180932','Boucher, François','France','etcher','Rococo','military art','1770','1703');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q180932','Boucher, François','France','draftsperson','Rococo','military art','1770','1703');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q180932','Boucher, François','France','designer','Rococo','military art','1770','1703');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q180932','Boucher, François','France','exlibrist','Rococo','military art','1770','1703');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q3767287','Susini, Giovanni Francesco',NULL,'sculptor',NULL,NULL,'1585','1646 ou après 1653');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q15822299','Kriebel, Jürgen',NULL,'sculptor',NULL,NULL,'1580-1590','1645');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q896084','Kern, Leonhard','Germany','sculptor',NULL,NULL,'1585 ou 1588','1662');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q336798','Algardi, Alessandro','Papal States','sculptor','Baroque',NULL,'1598','1654');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q336798','Algardi, Alessandro','Papal States','architect','Baroque',NULL,'1598','1654');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q4233718','Algardi, Alessandro',NULL,'artist',NULL,NULL,'1598','1654');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q4233718','Algardi, Alessandro',NULL,'composer',NULL,NULL,'1598','1654');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q4233718','Algardi, Alessandro',NULL,'librettist',NULL,NULL,'1598','1654');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q4233718','Algardi, Alessandro',NULL,'writer',NULL,NULL,'1598','1654');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q673573','Van Opstal, Gérard','Southern Netherlands','sculptor',NULL,NULL,'1605','1668');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q73593','Kändler, Johann Joachim','Germany','sculptor',NULL,NULL,'1706','1755');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q73593','Kändler, Johann Joachim','Germany','ceramicist',NULL,NULL,'1706','1755');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q73593','Kändler, Johann Joachim','Germany','sculptor',NULL,NULL,'1706','1755');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q73593','Kändler, Johann Joachim','Germany','ceramicist',NULL,NULL,'1706','1755');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q960381','Duquesnoy, François','Southern Netherlands','sculptor','Baroque',NULL,'1594','1643');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q4233718','Duquesnoy, François',NULL,'artist',NULL,NULL,'1594','1643');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q4233718','Duquesnoy, François',NULL,'composer',NULL,NULL,'1594','1643');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q4233718','Duquesnoy, François',NULL,'librettist',NULL,NULL,'1594','1643');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q4233718','Duquesnoy, François',NULL,'writer',NULL,NULL,'1594','1643');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q4233718','Mason, Raymond',NULL,'artist',NULL,NULL,'1922','2010');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q4233718','Mason, Raymond',NULL,'composer',NULL,NULL,'1922','2010');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q4233718','Mason, Raymond',NULL,'librettist',NULL,NULL,'1922','2010');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q4233718','Mason, Raymond',NULL,'writer',NULL,NULL,'1922','2010');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q648445','Desjardins, Martin (Van den Bogaert Martin, dit)','France','painter',NULL,NULL,'1637','1694');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q648445','Desjardins, Martin (Van den Bogaert Martin, dit)','France','sculptor',NULL,NULL,'1637','1694');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q648445','Desjardins, Martin (Van den Bogaert Martin, dit)','France','university teacher',NULL,NULL,'1637','1694');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q648445','Duvieux fils, Charles','France','painter',NULL,NULL,'1637','1694');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q648445','Duvieux fils, Charles','France','sculptor',NULL,NULL,'1637','1694');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q648445','Duvieux fils, Charles','France','university teacher',NULL,NULL,'1637','1694');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q297','Velázquez, Diego Rodríguez de Silva y','Spain','painter','Baroque','still life','1660','1599');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q469056','Prud'hon, Pierre-Paul','France','painter',NULL,'history painting','1823','1758');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q271484','Gérard, Marguerite','France','painter',NULL,NULL,'1837','1761');

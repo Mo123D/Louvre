@@ -1,19 +1,20 @@
-/* Declaring the table attributes (z.B. (arkid, ...)) is not necessary, but helps for comprehension */
+/* Declaring the table attributes (z.B. (arkid, ...)) is not necessary, but maybe helps for comprehension */
 /* Because of references, oder of creation must be: Museum, Room, Artwork, Creator, WorkAs, WasCreated */
     
 insert into museum (id, name, city, country)
     values ('1A', 'Louvre', 'Paris', 'France');
     
 insert into room (id, wing, level, museumid)
-    values ('12a', 'German', '2', '1A');
+    values 
+    ('12a', 'German', '2', '1A');
     
-insert into artwork (arkid, title, materialsandtechniques, objecttype, collection, roomid, roomwing) 
+insert into artwork (arkid, title, materialsandtechniques, collection, roomid, roomwing) 
     values  
-    ('abc123', 'Title 1', 'Paint', 'Painting', 'Top Ten', '12a', 'German'),
-    ('def456', 'Title 2', 'Oil', 'Paiting', 'Boring', '12a', 'German');
+    ('abc123', 'Title 1', 'Paint', 'Top Ten', '12a', 'German'),
+    ('def456', 'Title 2', 'Oil', 'Boring', '12a', 'German');
 
-insert into creator (id, name, countryofcitizenship, birth, death) 
-    values ('123abc', 'Max Mustermann', 'Germany', '1993-03-25', NULL);
+insert into creator (id, name, countryofcitizenship, birth, death, movement, genre) 
+    values ('123abc', 'Max Mustermann', 'Germany', '1993-03-25', NULL, 'Impressionism', 'Landscape');
     
 insert into workas (creatorid, creationrole)
     values ('123abc', 'Painter');

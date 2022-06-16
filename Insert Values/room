@@ -1,0 +1,599 @@
+INSERT INTO room(number, wing, level, museumId)
+VALUES(NULL,NULL,NULL,'Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('930','Aile Sully','2','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('834','Aile Richelieu','2','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('941','Aile Sully','2','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('545','Aile Richelieu','1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('859','Aile Richelieu','2','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('802','Aile Richelieu','2','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('710','Aile Denon','1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('536','Aile Richelieu','1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('802','Aile Richelieu','2','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('920','Aile Sully','2','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('917','Aile Sully','2','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('941','Aile Sully','2','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('942','Aile Sully','2','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('702','Aile Denon','1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('936','Aile Sully','2','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('225','Aile Richelieu','0','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('860','Aile Richelieu','2','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('933','Aile Sully','2','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('716','Aile Denon','1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('801','Aile Richelieu','2','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('801','Aile Richelieu','2','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('802','Aile Richelieu','2','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('710','Aile Denon','1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('844','Aile Richelieu','2','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('729','Aile Denon','1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('828','Aile Richelieu','2','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('802','Aile Richelieu','2','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('828','Aile Richelieu','2','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('840','Aile Richelieu','2','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('815','Aile Richelieu','2','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('942','Aile Sully','2','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('818','Aile Richelieu','2','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('814','Aile Richelieu','2','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('933','Aile Sully','2','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('800','Aile Richelieu','2','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('729','Aile Denon','1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('712','Aile Denon','1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES(NULL,NULL,NULL,'Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('903','Aile Sully','2','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('903','Aile Sully','2','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('903','Aile Sully','2','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('700','Aile Denon','1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('933','Aile Sully','2','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('702','Aile Denon','1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('843','Aile Richelieu','2','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('941','Aile Sully','2','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('718','Aile Denon','1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('941','Aile Sully','2','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('702','Aile Denon','1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('943','Aile Sully','2','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('940','Aile Sully','2','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('919','Aile Sully','2','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('708','Aile Denon','1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('942','Aile Sully','2','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('729','Aile Denon','1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('710','Aile Denon','1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('902','Aile Sully','2','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('936','Aile Sully','2','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('902','Aile Sully','2','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('714','Aile Denon','1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('717','Aile Denon','1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('728','Aile Denon','1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('710','Aile Denon','1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES(NULL,NULL,NULL,'Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('731','Aile Denon','1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('718','Aile Denon','1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('709','Aile Denon','1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('709','Aile Denon','1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('837','Aile Richelieu','2','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('718','Aile Denon','1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('712','Aile Denon','1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('900','Aile Sully','2','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('661','Aile Denon','1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('935','Aile Sully','2','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('835','Aile Richelieu','2','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES(NULL,NULL,NULL,'Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('946','Aile Sully','2','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('718','Aile Denon','1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('829','Aile Richelieu','2','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('809','Aile Richelieu','2','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('921','Aile Sully','2','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('913','Aile Sully','2','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('818','Aile Richelieu','2','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('730','Aile Denon','1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('640','Aile Sully','1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('713','Aile Denon','1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('724','Aile Denon','1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('732','Aile Denon','1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('940','Aile Sully','2','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('927','Aile Sully','2','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('815','Aile Richelieu','2','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('730','Aile Denon','1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('929','Aile Sully','2','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('723','Aile Denon','1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('823','Aile Richelieu','2','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES(NULL,NULL,NULL,'Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('162','Aile Denon','-1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('163','Aile Denon','-1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('105','Aile Richelieu','-1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('225','Aile Richelieu','0','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('225','Aile Richelieu','0','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('105','Aile Richelieu','-1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES(NULL,NULL,NULL,'Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('207','Aile Richelieu','0','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('226','Aile Richelieu','0','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('Lefuel','Aile Richelieu','1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES(NULL,NULL,NULL,'Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('226','Aile Richelieu','0','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('226','Aile Richelieu','0','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES(NULL,NULL,NULL,'Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('225','Aile Richelieu','0','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('225','Aile Richelieu','0','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('105','Aile Richelieu','-1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES(NULL,NULL,NULL,'Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('225','Aile Richelieu','0','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('210','Aile Richelieu','0','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('403','Aile Denon','0','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('403','Aile Denon','0','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('226','Aile Richelieu','0','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('226','Aile Richelieu','0','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('226','Aile Richelieu','0','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('101','Aile Richelieu','-1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('202','Aile Richelieu','0','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('220','Aile Richelieu','0','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('163','Aile Denon','-1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('203','Aile Richelieu','0','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('209','Aile Richelieu','0','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('210','Aile Richelieu','0','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('202','Aile Richelieu','0','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES(NULL,NULL,NULL,'Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('134','Aile Sully','-1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('210','Aile Richelieu','0','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('102','Aile Richelieu','-1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('220','Aile Richelieu','0','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('164','Aile Denon','-1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('223','Aile Richelieu','0','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('162','Aile Denon','-1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('207','Aile Richelieu','0','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('202','Aile Richelieu','0','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('223','Aile Richelieu','0','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('401','Aile Denon','0','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('226','Aile Richelieu','0','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('164','Aile Denon','-1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('134','Aile Sully','-1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('222','Aile Richelieu','0','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('226','Aile Richelieu','0','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('226','Aile Richelieu','0','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('225','Aile Richelieu','0','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('105','Aile Richelieu','-1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('403','Aile Denon','0','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('400','Aile Denon','0','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('207','Aile Richelieu','0','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('219','Aile Richelieu','0','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('102','Aile Richelieu','-1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('403','Aile Denon','0','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('105','Aile Richelieu','-1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES(NULL,NULL,NULL,'Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('134','Aile Sully','-1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('Colbert','Aile Richelieu','1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('221','Aile Richelieu','0','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('541','Aile Richelieu','1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('209','Aile Richelieu','0','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('225','Aile Richelieu','0','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('169','Aile Denon','-1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('104','Aile Richelieu','-1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('400','Aile Denon','0','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('226','Aile Richelieu','0','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('401','Aile Denon','0','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('102','Aile Richelieu','-1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('226','Aile Richelieu','0','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES(NULL,NULL,NULL,'Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES(NULL,NULL,NULL,'Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES(NULL,NULL,NULL,'Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES(NULL,NULL,NULL,'Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES(NULL,NULL,NULL,'Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('553','Aile Richelieu','1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('502','Aile Richelieu','1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('519','Aile Richelieu','1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('623','Aile Sully','1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('623','Aile Sully','1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('526','Aile Richelieu','1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('527','Aile Richelieu','1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('527','Aile Richelieu','1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('604','Aile Sully','1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('604','Aile Sully','1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('610','Aile Sully','1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('527','Aile Richelieu','1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('610','Aile Sully','1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('610','Aile Sully','1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('610','Aile Sully','1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('526','Aile Richelieu','1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES(NULL,NULL,NULL,'Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('605','Aile Sully','1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES(NULL,NULL,NULL,'Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('104','Aile Richelieu','-1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES(NULL,NULL,NULL,'Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('720','Aile Denon','1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('700','Aile Denon','1','Q19675');
+
+INSERT INTO room(number, wing, level, museumId)
+VALUES('929','Aile Sully','2','Q19675');

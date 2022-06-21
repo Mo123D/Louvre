@@ -10,9 +10,9 @@ create table museum (
 );
 
 create table room (
-    id varchar(3) primary key,
+    number varchar(10) primary key,
     wing text,
-    level varchar(1),
+    level varchar(3),
     museumId varchar(10) references museum on delete cascade
 );
 
@@ -21,7 +21,7 @@ create table artwork (
     title text,
     materialsAndTechniques text,
     collection text,
-    roomId varchar(3) references room on delete set NULL
+    roomId varchar(10) references room on delete set NULL
 );
 
 create table creator (
@@ -30,7 +30,7 @@ create table creator (
     countryOfCitizenship text,
     birth date,
     death date,
-    creationRole text,
+	creationRole text,
     movement text,
     genre text
 );

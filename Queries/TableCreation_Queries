@@ -28,9 +28,9 @@ create table creator (
     id varchar (8) primary key,
     name text,
     countryOfCitizenship text,
-    birth date,
-    death date,
-	creationRole text,
+    birth int,
+    death int,
+	creationRole[] text,
     movement text,
     genre text
 );

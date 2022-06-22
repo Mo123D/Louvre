@@ -5,7 +5,7 @@ INSERT INTO wasCreated(artworkId, creatorId, startYear, endYear, epoch, doubt)
 VALUES('cl010059078','Q127171','1780','1785','4e quart du XVIIIe siècle',NULL);
 
 INSERT INTO wasCreated(artworkId, creatorId, startYear, endYear, epoch, doubt)
-VALUES('cl010059079','Q4233718','1438',NULL,'Milieu du XVe siècle',NULL);
+VALUES('cl010059079','Q4233718-1','1438',NULL,'Milieu du XVe siècle',NULL);
 
 INSERT INTO wasCreated(artworkId, creatorId, startYear, endYear, epoch, doubt)
 VALUES('cl010059194','Q184212','1810','1813',NULL,NULL);
@@ -350,7 +350,7 @@ INSERT INTO wasCreated(artworkId, creatorId, startYear, endYear, epoch, doubt)
 VALUES('cl010092540','Q1969605','1300','1400','Fin du XIVe siècle',NULL);
 
 INSERT INTO wasCreated(artworkId, creatorId, startYear, endYear, epoch, doubt)
-VALUES('cl010092547','Q3697719','','1605','Début du XVIIe siècle',NULL);
+VALUES('cl010092547','Q3697719',NULL,'1605','Début du XVIIe siècle',NULL);
 
 INSERT INTO wasCreated(artworkId, creatorId, startYear, endYear, epoch, doubt)
 VALUES('cl010092622','Q3697719','1685','1700','Fin du XVIIe siècle',NULL);
@@ -530,7 +530,7 @@ INSERT INTO wasCreated(artworkId, creatorId, startYear, endYear, epoch, doubt)
 VALUES('cl010096631','Q959688','1788',NULL,'4e quart du XVIIIe siècle = dernier quart du XVIIIe siècle',NULL);
 
 INSERT INTO wasCreated(artworkId, creatorId, startYear, endYear, epoch, doubt)
-VALUES('cl010098198','Q4233718','1210','1230','1er tiers du XIIIe siècle',NULL);
+VALUES('cl010098198','Q4233718-2','1210','1230','1er tiers du XIIIe siècle',NULL);
 
 INSERT INTO wasCreated(artworkId, creatorId, startYear, endYear, epoch, doubt)
 VALUES('cl010098703','Q333323','1600','1700','Fin du XVIIe siècle (?)',NULL);
@@ -539,7 +539,7 @@ INSERT INTO wasCreated(artworkId, creatorId, startYear, endYear, epoch, doubt)
 VALUES('cl010101056','Q1608030','1600','1700','Fin du XVIIe siècle (?)',NULL);
 
 INSERT INTO wasCreated(artworkId, creatorId, startYear, endYear, epoch, doubt)
-VALUES('cl010104730','Q180932','1600','''1700''','''Fin du XVIIe siècle (?)',',',NULL);
+VALUES('cl010104730','Q180932','1600','1700','Fin du XVIIe siècle (?)',NULL);
 
 INSERT INTO wasCreated(artworkId, creatorId, startYear, endYear, epoch, doubt)
 VALUES('cl010105133','Q3767287','1600','1700','Fin du XVIIe siècle (?)',NULL);
@@ -554,7 +554,7 @@ INSERT INTO wasCreated(artworkId, creatorId, startYear, endYear, epoch, doubt)
 VALUES('cl010111056','Q336798','1600','1650','1ere moitié du XVIIe siècle',NULL);
 
 INSERT INTO wasCreated(artworkId, creatorId, startYear, endYear, epoch, doubt)
-VALUES('cl010111626','Q4233718','1700','1715','Début du XVIIIe siècle',NULL);
+VALUES('cl010111626','Q4233718-3','1700','1715','Début du XVIIIe siècle',NULL);
 
 INSERT INTO wasCreated(artworkId, creatorId, startYear, endYear, epoch, doubt)
 VALUES('cl010112447','Q76941091','1700','1715','Début du XVIIIe siècle',NULL);
@@ -566,7 +566,7 @@ INSERT INTO wasCreated(artworkId, creatorId, startYear, endYear, epoch, doubt)
 VALUES('cl010113635','Q76941091','1640','1668','Milieu du XVIIe siècle',NULL);
 
 INSERT INTO wasCreated(artworkId, creatorId, startYear, endYear, epoch, doubt)
-VALUES('cl010113640','Q76941091','1640','''1668''','''Milieu du XVIIe siècle',',',NULL);
+VALUES('cl010113640','Q76941091','1640','1668','Milieu du XVIIe siècle',NULL);
 
 INSERT INTO wasCreated(artworkId, creatorId, startYear, endYear, epoch, doubt)
 VALUES('cl010113646','Q73593','1640','1668','Milieu du XVIIe siècle',NULL);
@@ -578,16 +578,16 @@ INSERT INTO wasCreated(artworkId, creatorId, startYear, endYear, epoch, doubt)
 VALUES('cl010116347','Q960381','1640','1660','Milieu du XVIIe siècle',NULL);
 
 INSERT INTO wasCreated(artworkId, creatorId, startYear, endYear, epoch, doubt)
-VALUES('cl010237552','Q4233718','1600','1700','XVIIe siècle',NULL);
+VALUES('cl010237552','Q4233718-4','1600','1700','XVIIe siècle',NULL);
 
 INSERT INTO wasCreated(artworkId, creatorId, startYear, endYear, epoch, doubt)
-VALUES('cl010379723','Q4233718','1963','1967','XXe siècle ; 3e quart du XXe siècle',NULL);
+VALUES('cl010379723','Q4233718-5','1963','1967','XXe siècle ; 3e quart du XXe siècle',NULL);
 
 INSERT INTO wasCreated(artworkId, creatorId, startYear, endYear, epoch, doubt)
-VALUES('cl010379763','Q648445','','1671','3e quart du XVIIe siècle',NULL);
+VALUES('cl010379763','Q648445',NULL,'1671','3e quart du XVIIe siècle',NULL);
 
 INSERT INTO wasCreated(artworkId, creatorId, startYear, endYear, epoch, doubt)
-VALUES('cl010409128','Q648445','1853',NULL,NULL,NULL);
+VALUES('cl010409128','Q4233718-6','1853',NULL,NULL,NULL);
 
 INSERT INTO wasCreated(artworkId, creatorId, startYear, endYear, epoch, doubt)
 VALUES('cl010427862','Q297','1600','1700','XVIIe siècle',NULL);

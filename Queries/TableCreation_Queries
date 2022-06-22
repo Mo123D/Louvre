@@ -30,7 +30,7 @@ create table creator (
     countryOfCitizenship text,
     birth int,
     death int,
-	creationRole[] text,
+    creationRole text[],
     movement text,
     genre text
 );

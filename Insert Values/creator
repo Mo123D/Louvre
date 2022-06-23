@@ -428,7 +428,7 @@ INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genr
 VALUES('Q4233718-4','anonymous',NULL,'{artist,composer,librettist,writer}',NULL,NULL,NULL,NULL);
 
 INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
-VALUES('Q4233718-5','anonymous',NULL,'{artist,composer,librettist,writer}',NULL,NULL,NULL,NULL);
+VALUES('Q4233718-5','Mason, Raymond','United Kingdom',NULL,NULL,NULL,'1922','2010');
 
 INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
 VALUES('Q648445','Desjardins, Martin (Van den Bogaert Martin, dit)','France','{painter,sculptor,university teacher}',NULL,NULL,'1637','1694');

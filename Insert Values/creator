@@ -441,3 +441,6 @@ VALUES('Q297','Velázquez, Diego Rodríguez de Silva y','Spain','{painter}','Bar
 
 INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
 VALUES('Q271484','Gérard, Marguerite','France','{painter}',NULL,NULL,'1837','1761');
+
+INSERT INTO creator(id, name, countryOfCitizenship, creationRole, movement, genre, birth, death)
+VALUES('Q3371648','Giraud, Pierre François Grégoire','France','{sculptor}',NULL,NULL,'1783','1873');

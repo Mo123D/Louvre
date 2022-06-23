@@ -116,10 +116,10 @@ INSERT INTO wasCreated(artworkId, creatorId, startYear, endYear, epoch, doubt)
 VALUES('cl010062548','Q49898','1685',NULL,'4e quart du XVIIe siècle',NULL);
 
 INSERT INTO wasCreated(artworkId, creatorId, startYear, endYear, epoch, doubt)
-VALUES('cl010062666','Q285666','1685','NULL','4e quart du XVIIe siècle',NULL);
+VALUES('cl010062666','Q285666','1685',NULL,'4e quart du XVIIe siècle',NULL);
 
 INSERT INTO wasCreated(artworkId, creatorId, startYear, endYear, epoch, doubt)
-VALUES('cl010062703','Q175130','1880','NULL','4e quart du XIXe siècle',NULL);
+VALUES('cl010062703','Q175130','1880',NULL,'4e quart du XIXe siècle',NULL);
 
 INSERT INTO wasCreated(artworkId, creatorId, startYear, endYear, epoch, doubt)
 VALUES('cl010062725','Q39931','1875','1900','4e quart du XIXe siècle',NULL);

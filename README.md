@@ -69,8 +69,8 @@ Backup von alle SQL Queries der Datenbanken Projekt des SoSe2022.
    <tr>
     <td> Kunstwerke in DB hinzufügen (~200) </td>
        <td> </td>
-    <td> Marie </td>
-    <td> </td>
+    <td> Marie / Rachael </td>
+    <td> 23.06 </td>
   </tr> 
      <tr>
     <td> Figure out external access </td>

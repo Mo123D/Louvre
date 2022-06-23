@@ -1,4 +1,4 @@
-/* Because of references, oder of creation must be: Museum, Room, Artwork, Creator, WorkAs, WasCreated */
+/* Because of references, oder of creation must be: Museum, Room, Artwork, Creator, WasCreated */
 
 drop table if exists museum, room, artwork, creator, wascreated;
 
@@ -30,14 +30,14 @@ create table creator (
     countryOfCitizenship text,
     birth int,
     death int,
-    creationRole text[],
+	creationRole text[],
     movement text,
     genre text
 );
 
 create table wasCreated (
     artworkId varchar(15) references artwork on delete cascade primary key,
-    creatorId varchar(8) references creator on delete set NULL,
+    creatorId varchar(10) references creator on delete set NULL,
     startYear integer,
     endYear integer,
     epoch text,

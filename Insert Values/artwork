@@ -532,70 +532,70 @@ Matériau : jade
 Matériau : jaspe
 Matériau : lapis-lazuli
 Matériau : marbre
-Matériau : porphyre','Département des Objets d'art du Moyen Age, de la Renaissance et des temps modernes','553');
+Matériau : porphyre','Département des Objets d''art du Moyen Age, de la Renaissance et des temps modernes','553');
 
 INSERT INTO artwork(arkId, title, materialsAndTechniques, collection, roomId)
 VALUES('cl010098198','Statuette : Vierge allaitant l´Enfant','Matériau/Technique : Cuivre doré.
 Matériau : cuivre
 Technique : fonte = coulé fondu = fondu (techniques métal)
-Technique : doré = dorure (techniques métal)','Département des Objets d'art du Moyen Age, de la Renaissance et des temps modernes','502');
+Technique : doré = dorure (techniques métal)','Département des Objets d''art du Moyen Age, de la Renaissance et des temps modernes','502');
 
 INSERT INTO artwork(arkId, title, materialsAndTechniques, collection, roomId)
 VALUES('cl010098703','Bas-relief : Ananie rendant la vue à Saül','Matériau : bronze
-Technique : techniques métal (sculpture)','Département des Objets d'art du Moyen Age, de la Renaissance et des temps modernes','519');
+Technique : techniques métal (sculpture)','Département des Objets d''art du Moyen Age, de la Renaissance et des temps modernes','519');
 
 INSERT INTO artwork(arkId, title, materialsAndTechniques, collection, roomId)
-VALUES('cl010101056','"Buste de la grande Prétresse, d´après"" Iphigénie"" de Gluck Manufacture de Sèvres"','Matériau : biscuit de porcelaine tendre
-Technique : techniques céramique','Département des Objets d'art du Moyen Age, de la Renaissance et des temps modernes','623');
+VALUES('cl010101056','Buste de la grande Prétresse, d´après "Iphigénie" de Gluck Manufacture de Sèvres','Matériau : biscuit de porcelaine tendre
+Technique : techniques céramique','Département des Objets d''art du Moyen Age, de la Renaissance et des temps modernes','623');
 
 INSERT INTO artwork(arkId, title, materialsAndTechniques, collection, roomId)
 VALUES('cl010104730','La Leçon de flageolet','Matériau : biscuit de porcelaine tendre
-Technique : techniques céramique','Département des Objets d'art du Moyen Age, de la Renaissance et des temps modernes','623');
+Technique : techniques céramique','Département des Objets d''art du Moyen Age, de la Renaissance et des temps modernes','623');
 
 INSERT INTO artwork(arkId, title, materialsAndTechniques, collection, roomId)
 VALUES('cl010105133','Groupe sculpté : Bacchus et jeune satyre','Matériau : bronze
-Technique : techniques métal','Département des Objets d'art du Moyen Age, de la Renaissance et des temps modernes','526');
+Technique : techniques métal','Département des Objets d''art du Moyen Age, de la Renaissance et des temps modernes','526');
 
 INSERT INTO artwork(arkId, title, materialsAndTechniques, collection, roomId)
-VALUES('cl010109262','La Vierge','Matériau : ivoire d'éléphant = défense d'éléphant','Département des Objets d'art du Moyen Age, de la Renaissance et des temps modernes','527');
+VALUES('cl010109262','La Vierge','Matériau : ivoire d''éléphant = défense d''éléphant','Département des Objets d''art du Moyen Age, de la Renaissance et des temps modernes','527');
 
 INSERT INTO artwork(arkId, title, materialsAndTechniques, collection, roomId)
-VALUES('cl010111000','Statuette : Diane, un putto et deux chiens','Matériau : ivoire d'éléphant = défense d'éléphant','Département des Objets d'art du Moyen Age, de la Renaissance et des temps modernes','527');
+VALUES('cl010111000','Statuette : Diane, un putto et deux chiens','Matériau : ivoire d''éléphant = défense d''éléphant','Département des Objets d''art du Moyen Age, de la Renaissance et des temps modernes','527');
 
 INSERT INTO artwork(arkId, title, materialsAndTechniques, collection, roomId)
 VALUES('cl010111056','Hercule enfant et le serpent','Matériau : bronze
-Technique : techniques métal (sculpture)','Département des Objets d'art du Moyen Age, de la Renaissance et des temps modernes','604');
+Technique : techniques métal (sculpture)','Département des Objets d''art du Moyen Age, de la Renaissance et des temps modernes','604');
 
 INSERT INTO artwork(arkId, title, materialsAndTechniques, collection, roomId)
-VALUES('cl010111626','Hercule terrassant l´Hydre de Lerne','Matériau : bronze','Département des Objets d'art du Moyen Age, de la Renaissance et des temps modernes','604');
+VALUES('cl010111626','Hercule terrassant l´Hydre de Lerne','Matériau : bronze','Département des Objets d''art du Moyen Age, de la Renaissance et des temps modernes','604');
 
 INSERT INTO artwork(arkId, title, materialsAndTechniques, collection, roomId)
 VALUES('cl010112447','Les quatre Saisons : Automne','Matériau : porcelaine dure
-Technique : techniques céramique','Département des Objets d'art du Moyen Age, de la Renaissance et des temps modernes','610');
+Technique : techniques céramique','Département des Objets d''art du Moyen Age, de la Renaissance et des temps modernes','610');
 
 INSERT INTO artwork(arkId, title, materialsAndTechniques, collection, roomId)
-VALUES('cl010113558','Bas-relief : Ivresse de Silène, avec quatre putti et deux satyreaux','Matériau : ivoire d'éléphant = défense d'éléphant','Département des Objets d'art du Moyen Age, de la Renaissance et des temps modernes','527');
+VALUES('cl010113558','Bas-relief : Ivresse de Silène, avec quatre putti et deux satyreaux','Matériau : ivoire d''éléphant = défense d''éléphant','Département des Objets d''art du Moyen Age, de la Renaissance et des temps modernes','527');
 
 INSERT INTO artwork(arkId, title, materialsAndTechniques, collection, roomId)
 VALUES('cl010113635','Perruche, d´une paire (OA 8070)','Matériau : porcelaine dure
-Technique : techniques céramique','Département des Objets d'art du Moyen Age, de la Renaissance et des temps modernes','610');
+Technique : techniques céramique','Département des Objets d''art du Moyen Age, de la Renaissance et des temps modernes','610');
 
 INSERT INTO artwork(arkId, title, materialsAndTechniques, collection, roomId)
 VALUES('cl010113640','Statuette : cavalier en veste jaune','Matériau : bronze (doré)
 Matériau : porcelaine
-Technique : techniques métal (bronze d'ameublement)','Département des Objets d'art du Moyen Age, de la Renaissance et des temps modernes','610');
+Technique : techniques métal (bronze d''ameublement)','Département des Objets d''art du Moyen Age, de la Renaissance et des temps modernes','610');
 
 INSERT INTO artwork(arkId, title, materialsAndTechniques, collection, roomId)
 VALUES('cl010113646','Figurine : Jardinier','Matériau : porcelaine dure
-Technique : techniques céramique','Département des Objets d'art du Moyen Age, de la Renaissance et des temps modernes','610');
+Technique : techniques céramique','Département des Objets d''art du Moyen Age, de la Renaissance et des temps modernes','610');
 
 INSERT INTO artwork(arkId, title, materialsAndTechniques, collection, roomId)
 VALUES('cl010115403','Statuette : Hermaphrodite','Matériau : bronze (patine brune)
-Technique : techniques métal','Département des Objets d'art du Moyen Age, de la Renaissance et des temps modernes','526');
+Technique : techniques métal','Département des Objets d''art du Moyen Age, de la Renaissance et des temps modernes','526');
 
 INSERT INTO artwork(arkId, title, materialsAndTechniques, collection, roomId)
 VALUES('cl010116347','Mercure et l´Amour','Matériau : bronze (patiné)
-Technique : techniques métal (sculpture)','Département des Objets d'art du Moyen Age, de la Renaissance et des temps modernes',NULL);
+Technique : techniques métal (sculpture)','Département des Objets d''art du Moyen Age, de la Renaissance et des temps modernes',NULL);
 
 INSERT INTO artwork(arkId, title, materialsAndTechniques, collection, roomId)
 VALUES('cl010237552','Vasque enguirlandée de fleurs','toile','Département des Peintures','605');

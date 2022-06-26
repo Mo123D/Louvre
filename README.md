@@ -52,13 +52,13 @@ Backup von alle SQL Queries der Datenbanken Projekt des SoSe2022.
     <td> Recherchieren JSON importieren </td>
     <td> Notizen / Links für Reference</td>
     <td> Mo </td>
-    <td> </td>
+    <td> done </td>
   </tr>
    <tr>
     <td> Importieren JSON Attributen </td>
      <td> </td>
     <td> Marie  </td>
-    <td> </td>
+    <td> done </td>
   </tr>
    <tr>
     <td> Bearbeiten DB Tabellen nach Entwurf </td>

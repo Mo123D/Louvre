@@ -22,7 +22,7 @@ NUM1:
 
 select roomid from artwork where title ='Saint Paul'
 
-or fór more info:
+-----or fór more info:
 
 select * from artwork c 
 left join room s on s.number = c.roomid

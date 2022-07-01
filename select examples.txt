@@ -1,0 +1,135 @@
+NUM1:
+#
+
+
+select roomid from artwork where title ='Saint Paul'
+
+
+----------------------------------------------------
+NUM2:
+
+
+select * from 
+(select * from 
+(select * from wascreated where wascreated.endyear > '1300' and  wascreated.endyear < '1900' order by wascreated.endyear) as timeline
+left join artwork as objects
+on timeline.artworkid = objects.arkid) as marblelist
+where collection ='Département des Peintures'
+
+
+
+---------------------------------------------------
+NUM3:
+
+
+
+
+select * from 
+(select * from 
+(select * from wascreated where wascreated.endyear > '1000' and  wascreated.endyear < '2000' order by wascreated.endyear) as timeline
+left join artwork as objects
+on timeline.artworkid = objects.arkid) as marblelist
+where materialsandtechniques ='huile sur toile'
+order by endyear
+
+
+
+
+
+---------------------------------------------------
+NUM4:
+
+
+
+select title , roomid from 
+(select * from 
+(select * from wascreated where wascreated.endyear > '1100' and  wascreated.endyear < '2000' order by wascreated.endyear) as timeline
+right join artwork as objects
+on timeline.artworkid = objects.arkid) as marblelist
+where materialsandtechniques='bronze'
+order by endyear
+
+
+
+
+
+---------------------------------------------
+NUM5:
+
+
+
+
+
+select name from creator where countryofcitizenship='France'
+
+
+-----------------------------------------------------
+NUM6:
+
+
+
+select * from
+(select title,roomid,materialsandtechniques, collection from artwork where collection='Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes') as a
+ where materialsandtechniques='marbre'
+
+
+
+
+---------------------------------------------------
+NUM7:
+
+
+
+
+select name from creator where creator.death >= '1600' and creator.death <= '1800'
+order by death
+
+
+
+
+
+
+-------------------------------------------------------
+NUM8:
+
+
+
+
+select * from
+(select title,roomid,materialsandtechniques from artwork where collection='Département des Sculptures du Moyen Age, de la Renaissance et des temps modernes') as a
+ where materialsandtechniques='bronze' 
+
+
+
+
+
+---------------------------------------------------------
+NUM9:
+
+
+SELECT 
+
+genre, title ,name
+
+FROM artwork c
+
+right JOIN creator M ON M.id = C.arkid
+
+WHERE genre='portrait'
+
+
+-------------------------------------------------------
+NUM10:
+
+
+
+
+
+select * from creator where creationrole='{painter}'
+
+
+
+
+
+
+

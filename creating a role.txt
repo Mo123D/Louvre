@@ -1,0 +1,18 @@
+CREATE ROLE db_view;
+GRANT CONNECT ON DATABASE ikg_b22_gruppe6_louvre to db_view;
+create schema db_access;
+GRANT USAGE ON SCHEMA db_access to db_view;
+GRANT SELECT ON ALL TABLES IN SCHEMA db_access to db_view;
+ALTER DEFAULT PRIVILEGES IN SCHEMA db_access GRANT SELECT ON TABLES TO db_view;
+----------------------------------------------------
+CREATE ROLE readwrite;
+GRANT CONNECT ON DATABASE ikg_b22_gruppe6_louvre to readwrite;
+GRANT USAGE, CREATE ON SCHEMA db_access GRANT SELECT, INSERT, UPDATE , DELETE ON TABLES TO readwrite;
+GRANT USAGE ON ALL SEQUENCES IN SCHEMA db_access to readwrite;
+ALTER DEFAULT PRIVILEGES IN SCHEMA db_access GRANT USAGE ON SEQUENCES TO readwrite;
+---------------------------------------------------
+CREATE USER dragon with PASSWORD 'some_password';
+CREATE USER baby_dragon WITH PASSWORD 'some_password';
+-----------------------------------------------
+GRANT db_view TO baby<_dragon;
+GRANT readwrite TO dragon

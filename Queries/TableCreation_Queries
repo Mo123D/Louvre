@@ -10,7 +10,7 @@ create table museum (
 );
 
 create table room (
-    number varchar(10) primary key,
+    number text primary key,
     wing text,
     level varchar(3),
     museumId varchar(10) references museum on delete cascade

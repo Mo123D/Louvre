@@ -110,17 +110,6 @@ Backup von alle SQL Queries der Datenbanken Projekt des SoSe2022.
 ## Wichtige Links
 Datenbank name: ikg_b22_gruppe6_louvre
 
-[Louvre JSON Documentation](https://collections.louvre.fr/en/page/documentationJSON) \
-Attribute für unsere eigene Datenbank zu extrahieren: \
-*coming soon*
-
-
-ISNI JSON-LD Documentation [(Beispiel Da Vinci)](https://isni.oclc.org/xslt/DB=1.2//CMD?ACT=SRCH&IKT=8006&TRM=ISN%3A0000%200001%202124%20423X&COOKIE=U51,KENDUSER,I28,B0028++++++,SY,NISNI,D1.2,E8b2bf6ce-28,A,H1,,3-28,,30-41,,43-59,,65-70,,74-75,R141.45.38.160,FY) \
-Attribute für unsere eigene Datenbank zu extrahieren:
-- Name
-- ISNI
-- Creation Role
-
 [Wikidata Toolkit](https://www.mediawiki.org/wiki/Wikidata_Toolkit)
 
 [Final Presentation](https://docs.google.com/presentation/d/1O_vaW-7Ez3Slp7ga9NQ1AOItniR5x1waId-zmu3Mpx8/edit?usp=sharing)

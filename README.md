@@ -76,7 +76,7 @@ Backup von alle SQL Queries der Datenbanken Projekt des SoSe2022.
     <td> Figure out external access </td>
        <td> </td>
     <td> Mo </td>
-    <td> </td>
+    <td> done </td>
   </tr>
       <tr> <th colspan="4"> Präsentationen </th> </tr>
    <tr>

@@ -90,7 +90,7 @@ Backup von alle SQL Queries der Datenbanken Projekt des SoSe2022.
     <td> PPT - Konzept, Entwurf, Probleme/Verbesserung <br> 
          Demo Notizen </td>
     <td> Alle </td>
-    <td> </td>
+    <td> done </td>
   </tr>
    <tr>
     <td> Finale Präs. </td>

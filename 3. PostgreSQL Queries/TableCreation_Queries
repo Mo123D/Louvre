@@ -1,0 +1,45 @@
+/* Because of references, oder of creation must be: Museum, Room, Artwork, Creator, WasCreated */
+
+drop table if exists museum, room, artwork, creator, wascreated;
+
+create table museum (
+    id varchar(10) primary key,
+    name text,
+    city text,
+    country text
+);
+
+create table room (
+    number text primary key,
+    wing text,
+    level varchar(3),
+    museumId varchar(10) references museum on delete cascade
+);
+
+create table artwork (
+    arkId varchar(15) primary key,
+    title text,
+    materialsAndTechniques text,
+    collection text,
+    roomId varchar(10) references room on delete set NULL
+);
+
+create table creator (
+    id varchar (10) primary key,
+    name text,
+    countryOfCitizenship text,
+    birth int,
+    death int,
+    creationRole text[],
+    movement text,
+    genre text
+);
+
+create table wasCreated (
+    artworkId varchar(15) references artwork on delete cascade primary key,
+    creatorId varchar(10) references creator on delete set NULL,
+    startYear integer,
+    endYear integer,
+    epoch text,
+    doubt boolean
+);

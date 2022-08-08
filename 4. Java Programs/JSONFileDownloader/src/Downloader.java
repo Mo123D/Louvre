@@ -19,11 +19,6 @@ public class Downloader {
         String[] fileOutput = new String[artworkList.getNumArtworks()];
         System.out.println(fileOutput.length);
         for (int i=0; i< artworkList.getNumArtworks();i++) {
-            System.out.println(artworkList.getArtworkArkId(i));
-            fileOutput[i] = "C:\\Users\\Marie\\Documents\\Studium\\SoSe2022\\" +
-                    "B22 Datenbanken\\PostgreSQL Datenbanken\\JSONDocumentation\\"+ artworkList.getArtworkArkId(i) + ".json";
-            System.out.println(fileOutput[i]);
-
             FileOutputStream fileOS = new FileOutputStream("C:\\Users\\Marie\\Desktop\\JSONFiles\\"+ artworkList.getArtworkArkId(i) + ".json");
             URL url = new URL(artworkList.getArtworkURL(i)+".json");
             openStream(url, fileOS);

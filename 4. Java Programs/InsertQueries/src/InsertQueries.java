@@ -34,12 +34,12 @@ public class InsertQueries {
     public static void main(String[] args) throws FileNotFoundException, IOException, MediaWikiApiErrorException, InterruptedException {
         File currentFile = null;
         try {
-            //READING JSON AND CSV DATA
+            //READING CSV DATA
             File dataFile = new File("data");
             File filesList[] = dataFile.listFiles();
             fromCSV = FromCSVFile.addFromCSVFile("JSONFileURL.csv");
 
-            //ITERATING THROUGH JSON FILES
+            //ITERATING THROUGH AND READING JSON FILES
             for (int j = 0; j < filesList.length; j++) {
                 File file = filesList[j];
                 currentFile = file;
@@ -48,7 +48,7 @@ public class InsertQueries {
                 }.getType());
 
 
-                //ROOM
+                //CREATING ROOM
                 Room room = new Room(objects);
 
                 //ITERATING THROUGH CREATOR
@@ -57,7 +57,6 @@ public class InsertQueries {
                 String genre = "NULL";
                 int counter = 0;
                 for (Creator creator : objects.getCreator()) {
-
                     if (!(creator.getLabel().isBlank())) {
                         creatorLabel = creator.getLabel();
                     }
@@ -77,6 +76,7 @@ public class InsertQueries {
                     }
                 }
 
+                //FETCHING CREATOR ATTRIBUTS FROM WIKIDATA
                 OnlineWikidataProperties wikiDataProps = new OnlineWikidataProperties(creatorWikidata);
 
                 creationRole = wikiDataProps.getCreationRole();

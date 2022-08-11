@@ -30,7 +30,7 @@ create table creator (
     countryOfCitizenship text,
     birth int,
     death int,
-    creationRole text[],
+    creationRole text,
     movement text,
     genre text
 );
@@ -41,5 +41,4 @@ create table wasCreated (
     startYear integer,
     endYear integer,
     epoch text,
-    doubt boolean
 );
